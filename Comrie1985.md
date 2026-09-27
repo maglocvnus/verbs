@@ -22,7 +22,7 @@ Here are the corresponding past tense forms:
 
 A finite verb in the present tense means that the situation (event, process or state) described by the verb is located at (includes) the moment of utterance.
 
-different for event verbs, process verbs and state verbs?
+different for event verbs, process verbs and state verbs? swim is an activity/process verb, non-bounded non-culminating, doesn't change the world.
 
 A finite verb in the past tense means that the situation (event, process or state) described by the verb holds at some time prior to the moment of utterance.
 
