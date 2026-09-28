@@ -8,8 +8,8 @@ Here are some present tense forms:
 - *Kate **will** dance.*
 - *Kate **will** be dancing.*
 - *Kate **has** danced.*
-- *Kate **has** been dancinging.*
-- *Kate **will** have been dancinging.*
+- *Kate **has** been dancing.*
+- *Kate **will** have been dancing.*
 
 Here are the corresponding past tense forms:
 - *Kate **danced**.*
@@ -34,7 +34,15 @@ The lexical verb here is *dance*, which intrinsically describes a **process** (r
 - Processes and events are *dynamic*, whereas states are not.
 - Events are *bounded*, whereas processes and states are not. 
 
-A process like dancing can be thought of as a non-bounded repetition of individual events – dancing is an aggregate of cycles of steps, in the same what that sand (or uncooked rice) is an aggregate of grains.
+```
+∀x. dancing(x) → process(x)
+∀x. process(x) → situation(x) ∧ dynamic(x) ∧ ¬bounded(x)
+∀x. event(x) → situation(x) ∧ dynamic(x) ∧ bounded(x)
+∀x. state(x) → situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
+```
+
+
+A process like dancing can be thought of as a non-bounded repetition of individual events – dancing is an aggregate of step patterns, in the same what that sand (or uncooked rice) is an aggregate of grains.
 
 Kate dance graph? FOL
 
