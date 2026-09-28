@@ -46,9 +46,18 @@ A process like dancing can be thought of as a non-bounded repetition of individu
 
 Kate dance graph? FOL
 
+```
+∃x. dancing(x) ∧ sbj(x,Kate) ∧ at(x,now)
+∃x. dancing(x) ∧ sbj(x,Kate) ∧ before(x,now)
+```
+
 In the simple present example *Kate dances*, the present tense suffix -s has been appended to the process verb *dance*.
 
 graph? FOL
+
+Most other European languages, this would mean the single process that holds right now, but not in English!
+
+A process verb in the present simple forces habitual meaning for some reason.
 
 
 Here the present tense suffix *-s* is attached to the verb *sing*, which is a **process verb**. This means that, intrinsically, the situation described by *sing* is a **process** – it consists of a non-bounded series of actions on the part of the swimmer, viewed from a time perspective that lies within the process itself.
