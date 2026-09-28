@@ -59,18 +59,28 @@ Rather, the unmarked meaning of *Kate dances* is the description of a current ha
 
 
 ```
-∃x. habit(x) ∧ at(x,now) ∧ dancing(y) ∧ sbj(y,Kate) 
+∃xyz. habit(x) ∧ at(x,now) ∧ plural(x,y) ∧ comp(y,z) ∧ dancing(z) ∧ sbj(z,Kate) 
+```
+
+In other words, it might not be the case that Kate is in the process of dancing right at the moment of utterance, but rather dancing is something she is currently in the habit of doing on a regular basis.
+
+```
+habits are processes?
 ```
 
 
 
-
-Kate dance graph? FOL
+Kate danced
 
 ```
-∃x. dancing(x) ∧ sbj(x,Kate) ∧ at(x,now)
-∃x. dancing(x) ∧ sbj(x,Kate) ∧ before(x,now)
+∃x. event(x) ∧ before(x,now) ∧ comp(x,y) ∧ dancing(y) ∧ sbj(y,Kate) 
+∃xyz. habit(x) ∧ before(x,now) ∧ plural(x,y) ∧ comp(y,z) ∧ dancing(z) ∧ sbj(z,Kate) 
 ```
+
+Kate and Lucy went out to a club. Lucy drank. Kate danced. They left the club. They took the subway home.
+
+I lived with two girls, Kate and Lucy. Lucy sang and played piano. Kate danced. 
+
 
 
 
