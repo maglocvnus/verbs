@@ -34,6 +34,8 @@ The lexical verb here is *dance*, which intrinsically describes a **process** (r
 - Processes and events are *dynamic*, whereas states are not.
 - Events are *bounded*, whereas processes and states are not. 
 
+We can formalise this as follows:
+
 ```
 ∀x. dancing(x) → process(x)
 ∀x. process(x) → situation(x) ∧ dynamic(x) ∧ ¬bounded(x)
@@ -41,8 +43,27 @@ The lexical verb here is *dance*, which intrinsically describes a **process** (r
 ∀x. state(x) → situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
 ```
 
+In the simple present example *Kate dances*, the present tense suffix *-s* has been appended to the process verb *dance*.
 
-A process like dancing can be thought of as a non-bounded repetition of individual events – dancing is an aggregate of step patterns, in the same what that sand (or uncooked rice) is an aggregate of grains.
+Given Comrie’s characterisation of present tense meaning above, it would be expected that the meaning of *Kate dances* would be this:
+
+```
+∃x. dancing(x) ∧ sbj(x,Kate) ∧ at(x,now)
+```
+
+In other words, there is a process involving Kate dancing which is true right now, at the moment the sentence is being uttered by the speaker.
+
+However, for some reason, and unlike in most other familiar languages, the simple present in English doesn’t work like that with process and event verbs.
+
+Rather, the unmarked meaning of *Kate dances* is the description of a current habit, rather than simply a current process.
+
+
+```
+∃x. habit(x) ∧ at(x,now) ∧ dancing(y) ∧ sbj(y,Kate) 
+```
+
+
+
 
 Kate dance graph? FOL
 
@@ -51,7 +72,7 @@ Kate dance graph? FOL
 ∃x. dancing(x) ∧ sbj(x,Kate) ∧ before(x,now)
 ```
 
-In the simple present example *Kate dances*, the present tense suffix -s has been appended to the process verb *dance*.
+
 
 graph? FOL
 
