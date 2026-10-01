@@ -1,6 +1,6 @@
 # Bernard Comrie (1985) *Tense*
 
-Every finite verb form in English has either present tense or past tense. 
+Every finite verb form in English has either <mark>present</mark> tense or <mark>past</mark> tense. 
 
 Here are some present tense forms:
 - *Kate **dances**.*
@@ -34,40 +34,49 @@ The lexical verb here is *dance*, which intrinsically describes a **process** (r
 - Processes and events are *dynamic*, whereas states are not.
 - Events are *bounded*, whereas processes and states are not. 
 
-We can formalise this as follows:
+So, a process like dancing is a dynamic, non-bounded situation.
+
+We can formalise these definitions as follows:
 
 ```
 ∀x. dancing(x) → process(x)
-∀x. process(x) → situation(x) ∧ dynamic(x) ∧ ¬bounded(x)
-∀x. event(x) → situation(x) ∧ dynamic(x) ∧ bounded(x)
-∀x. state(x) → situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
+∀x. process(x) ↔ situation(x) ∧ dynamic(x) ∧ ¬bounded(x)
+∀x. event(x) ↔ situation(x) ∧ dynamic(x) ∧ bounded(x)
+∀x. state(x) ↔ situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
 ```
 
 In the simple present example *Kate dances*, the present tense suffix *-s* has been appended to the process verb *dance*.
 
-Given Comrie’s characterisation of present tense meaning above, it would be expected that the meaning of *Kate dances* would be this:
+Given Comrie’s characterisation of present tense meaning above, it might be expected that the meaning of *Kate dances* would be something like this:
 
 ```
-∃x. dancing(x) ∧ sbj(x,Kate) ∧ at(x,now)
+∃x. dancing(x) ∧ actor(x,KATE) ∧ at(x,NOW)
 ```
 
-In other words, there is a process involving Kate dancing which is true right now, at the moment the sentence is being uttered by the speaker.
+In other words, there is a process involving Kate doing some dancing, which is true right now, at the moment the sentence is being uttered by the speaker.
 
-However, for some reason, and unlike in most other familiar languages, the simple present in English doesn’t work like that with process and event verbs.
+However, for some reason, and unlike in most other familiar languages, the simple present tense in English doesn’t work like that with process and event verbs.
 
-Rather, the unmarked meaning of *Kate dances* is the description of a current habit, rather than simply a current process.
-
-
-```
-∃xyz. habit(x) ∧ at(x,now) ∧ plural(x,y) ∧ comp(y,z) ∧ dancing(z) ∧ sbj(z,Kate) 
-```
-
-In other words, it might not be the case that Kate is in the process of dancing right at the moment of utterance, but rather dancing is something she is currently in the habit of doing on a regular basis.
+Rather, the unmarked meaning of *Kate dances* is the description of a current **habit**, rather than simply a current process:
 
 ```
-habits are processes?
+∃xyz. at(x,NOW) ∧ plurality-of(x,y) ∧ composed-of(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
 
+This can be understood in terms of the following definitions:
+
+```
+∀xy. composed-of(x,y) → event(x) ∧ process(y)
+∀xy. plurality-of(x,y) → process(x) ∧ event(y)
+```
+
+In other words, a (non-bounded) process like dancing can be *composed* into a (bounded) event describing a single episode of dancing with an inception and a termination.
+
+Similarly, a (bounded) event can be *pluralised* into a (non-bounded) activity describing a special kind of process known as a ‘habit’.
+
+To say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but might not be engaged in one of these right now at the moment of utterance.
+
+\[HERE\]
 
 
 Kate danced
