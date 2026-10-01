@@ -45,6 +45,8 @@ We can formalise these definitions as follows:
 ∀x. state(x) ↔ situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
 ```
 
+### Kate dances
+
 In the simple present example *Kate dances*, the present tense suffix *-s* has been appended to the process verb *dance*.
 
 Given Comrie’s characterisation of present tense meaning above, it might be expected that the meaning of *Kate dances* would be something like this:
@@ -76,10 +78,9 @@ Similarly, a (bounded) event can be *pluralised* into a (non-bounded) activity d
 
 To say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but might not be engaged in one of these right now at the moment of utterance.
 
+### Kate danced
+
 \[HERE\]
-
-
-Kate danced
 
 ```
 ∃x. event(x) ∧ before(x,now) ∧ comp(x,y) ∧ dancing(y) ∧ sbj(y,Kate) 
