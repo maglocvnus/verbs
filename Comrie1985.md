@@ -60,7 +60,7 @@ graph TD
 
 ### Simple present – *Kate dances*
 
-In the simple present example *Kate dances*, the present tense suffix *-s* has been appended to the process verb *dance*.
+In the simple present example *Kate dances*, the present tense suffix *-(e)s* has been appended to the process verb *dance*.
 
 Given Comrie’s characterisation of present tense meaning above, it might be expected that the meaning of *Kate dances* would be something like this:
 
@@ -104,53 +104,104 @@ graph TD
   x -- at --> now
 ```
 
-\[HERE\]
+A habit is understood to be a complex process consisting of a plurality (or iteration, or aggregate, or series) of events, each of which is a bounded process – in this case a series of bounded dancing events. 
 
-This can be understood in terms of the following definitions:
+Here are some relevant definitions:
 
 ```
 ∀xy. composed-of(x,y) → event(x) ∧ process(y)
 ∀xy. plurality-of(x,y) → process(x) ∧ event(y)
 ```
 
-
-
-In other words, a (non-bounded) process like dancing can be *composed* into a (bounded) event describing a single episode of dancing with an inception and a termination.
-
-Similarly, a (bounded) event can be *pluralised* into a (non-bounded) activity describing a special kind of process known as a ‘habit’.
-
-To say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but might not be engaged in one of these right now at the moment of utterance.
+In sum, to say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but admittedly is probably not engaged in one of these right now at the moment of utterance.
 
 ### Simple past – *Kate danced*
 
+In the simple past example *Kate danced*, the past tense suffix *-(e)d* has been appended to the process verb *dance*.
 
+In accordance with Comrie’s characterisation of past tense meaning above, the most common meaning of *Kate danced* is probably this:
 
 ```
-∃x. event(x) ∧ before(x,now) ∧ comp(x,y) ∧ dancing(y) ∧ sbj(y,Kate) 
-∃xyz. habit(x) ∧ before(x,now) ∧ plural(x,y) ∧ comp(y,z) ∧ dancing(z) ∧ sbj(z,Kate) 
+∃xy. before(x,NOW) ∧ composed-of(x,y) ∧ dancing(y) ∧ actor(y,KATE)
 ```
 
-Kate and Lucy went out to a club. Lucy drank. Kate danced. They left the club. They took the subway home.
+As a graph:
 
-I lived with two girls, Kate and Lucy. Lucy sang and played piano. Kate danced. 
+```mermaid
+graph TD
+  x([event])
+  x -- composedOf --> y
+  y([dancing])
+  kate([KATE])
+  now([NOW])
+  y -- actor --> kate
+  x -- before --> now
+```
+
+This is the sense that *Kate danced* has in the following kind of context: 
+
+> Kate drank a glass of cider. She danced. She went to the restroom. She danced again. She went home and watched TV.
+>
+> Kate danced, for 25 minutes.
+
+But there is also another meaning:
+
+```
+∃xyz. before(x,NOW) ∧ plurality-of(x,y) ∧ composed-of(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
+```
+
+Graph:
+
+```mermaid
+graph TD
+  x([process])
+  y([event])
+  z([dancing])
+  kate([KATE])
+  now([NOW])
+  x -- pluralityOf --> y
+  y -- composedOf --> z
+  z -- actor --> kate
+  x -- before --> now
+```
+
+In context:
+
+> I lived with two girls, Kate and Lucy. Lucy sang and played piano. Kate danced.
+>
+> Kate danced, every Wednesday evening.
+
+Third meaning?
+
+```
+∃xyzw. before(x,NOW) ∧ composed-of(x,y) ∧ plurality-of(y,z) ∧ composed-of(z,w) ∧ dancing(w) ∧ actor(w,KATE) 
+```
+
+Graph:
+
+```mermaid
+graph TD
+  x([event])
+  y([process])
+  z([event])
+  w([dancing])
+  kate([KATE])
+  now([NOW])
+  x -- composedOf --> y
+  y -- pluralityOf --> z
+  z -- composedOf --> w
+  w -- actor --> kate
+  x -- before --> now
+```
+
+Context:
+
+> Kate danced, every Wednesday evening until she turned 35.
 
 
 
 
-graph? FOL
 
-Most other European languages, this would mean the single process that holds right now, but not in English!
-
-A process verb in the present simple forces habitual meaning for some reason.
-
-
-Here the present tense suffix *-s* is attached to the verb *sing*, which is a **process verb**. This means that, intrinsically, the situation described by *sing* is a **process** – it consists of a non-bounded series of actions on the part of the swimmer, viewed from a time perspective that lies within the process itself.
-
-perfective / imperfective
-
-might also be true at other moments as well!
-
-
-different for event verbs, process verbs and state verbs? swim is an activity/process verb, non-bounded non-culminating, doesn't change the world.
+----
 
 
