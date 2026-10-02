@@ -1,8 +1,8 @@
 # Bernard Comrie (1985) *Tense*
 
-Every finite verb form in English has either <mark>present</mark> tense or <mark>past</mark> tense. 
+Every finite verb form in English has morphosyntactic tense – either <mark>present</mark> tense or <mark>past</mark> tense. 
 
-Here are some present tense forms:
+Here are some present tense finite verb forms:
 - *Kate **dances**.*
 - *Kate **is** dancing.*
 - *Kate **will** dance.*
@@ -11,7 +11,7 @@ Here are some present tense forms:
 - *Kate **has** been dancing.*
 - *Kate **will** have been dancing.*
 
-Here are the corresponding past tense forms:
+Here are the corresponding past tense finite verb forms:
 - *Kate **danced**.*
 - *Kate **was** dancing.*
 - *Kate **would** dance.*
@@ -21,8 +21,8 @@ Here are the corresponding past tense forms:
 - *Kate **would** have been dancing.*
 
 For Comrie:
-- When a finite verb is in the present tense, this means that the situation (event, process or state) described by the verb (and its dependents) is true at the moment of utterance.
-- When a finite verb is in the past tense, this means that the situation described by the verb (and its dependents) is true at some moment that precedes the moment of utterance.
+- When a finite verb is in the present tense, this just means that the situation (event, process or state) described by the verb (and its dependents) **IS true** at the moment of utterance.
+- When a finite verb is in the past tense, this just means that the situation described by the verb (and its dependents) **WAS true** at some moment that precedes the moment of utterance.
 
 ## Simple tenses
 
@@ -45,7 +45,20 @@ We can formalise these definitions as follows:
 ∀x. state(x) ↔ situation(x) ∧ ¬dynamic(x) ∧ ¬bounded(x)
 ```
 
-### Kate dances
+Or as an inheritance hierarchy:
+
+```mermaid
+graph TD
+  situation --> process
+  dynamic --> process
+  situation --> event
+  dynamic --> event
+  bounded --> event
+  situation --> state
+  process --> dancing
+```
+
+### Simple present – *Kate dances*
 
 In the simple present example *Kate dances*, the present tense suffix *-s* has been appended to the process verb *dance*.
 
@@ -55,15 +68,43 @@ Given Comrie’s characterisation of present tense meaning above, it might be ex
 ∃x. dancing(x) ∧ actor(x,KATE) ∧ at(x,NOW)
 ```
 
+As a graph:
+
+```mermaid
+graph TD
+  x([dancing])
+  kate([KATE])
+  now([NOW])
+  x -- actor --> kate
+  x -- at --> now
+```
+
 In other words, there is a process involving Kate doing some dancing, which is true right now, at the moment the sentence is being uttered by the speaker.
 
-However, for some reason, and unlike in most other familiar languages, the simple present tense in English doesn’t work like that with process and event verbs.
+However, for some reason, and unlike in most other languages we might be familiar with, the simple present tense in English doesn’t work like that with process and event (ie. dynamic) verbs.
 
 Rather, the unmarked meaning of *Kate dances* is the description of a current **habit**, rather than simply a current process:
 
 ```
 ∃xyz. at(x,NOW) ∧ plurality-of(x,y) ∧ composed-of(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
+
+As a graph:
+
+```mermaid
+graph TD
+  x([process])
+  y([event])
+  z([dancing])
+  kate([KATE])
+  now([NOW])
+  x -- pluralityOf --> y
+  y -- composedOf --> z
+  z -- actor --> kate
+  x -- at --> now
+```
+
+\[HERE\]
 
 This can be understood in terms of the following definitions:
 
@@ -72,15 +113,17 @@ This can be understood in terms of the following definitions:
 ∀xy. plurality-of(x,y) → process(x) ∧ event(y)
 ```
 
+
+
 In other words, a (non-bounded) process like dancing can be *composed* into a (bounded) event describing a single episode of dancing with an inception and a termination.
 
 Similarly, a (bounded) event can be *pluralised* into a (non-bounded) activity describing a special kind of process known as a ‘habit’.
 
 To say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but might not be engaged in one of these right now at the moment of utterance.
 
-### Kate danced
+### Simple past – *Kate danced*
 
-\[HERE\]
+
 
 ```
 ∃x. event(x) ∧ before(x,now) ∧ comp(x,y) ∧ dancing(y) ∧ sbj(y,Kate) 
