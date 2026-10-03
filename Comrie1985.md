@@ -1,6 +1,6 @@
 # Bernard Comrie (1985) *Tense*
 
-Every finite verb form in English has morphosyntactic tense – either <mark>present</mark> tense or <mark>past</mark> tense. 
+Every finite verb form in English has grammatical tense – either <mark>present</mark> tense or <mark>past</mark> tense. 
 
 Here are some present tense finite verb forms:
 - *Kate **dances**.*
@@ -11,7 +11,7 @@ Here are some present tense finite verb forms:
 - *Kate **has** been dancing.*
 - *Kate **will** have been dancing.*
 
-Here are the corresponding past tense finite verb forms:
+And here are the corresponding past tense finite verb forms:
 - *Kate **danced**.*
 - *Kate **was** dancing.*
 - *Kate **would** dance.*
@@ -21,8 +21,8 @@ Here are the corresponding past tense finite verb forms:
 - *Kate **would** have been dancing.*
 
 For Comrie:
-- When a finite verb is in the present tense, this just means that the situation (event, process or state) described by the verb (and its dependents) **IS true** at the moment of utterance.
-- When a finite verb is in the past tense, this just means that the situation described by the verb (and its dependents) **WAS true** at some moment that precedes the moment of utterance.
+- When a finite verb is in the present tense, this just means that the situation (event, process or state) described by the verb **IS true** at the moment of utterance.
+- When a finite verb is in the past tense, this just means that the situation described by the verb **WAS true** at some moment that precedes the moment of utterance.
 
 ## Simple tenses
 
@@ -89,7 +89,7 @@ Rather, the most common meaning of *Kate dances* is to describe a current **habi
 ∃xyz. at(x,NOW) ∧ series-of(x,y) ∧ bounds(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
 
-As a graph:
+Again, as a graph:
 
 ```mermaid
 graph TD
@@ -104,7 +104,7 @@ graph TD
   x -- at --> now
 ```
 
-A habit is understood to be a complex process consisting of a plurality (or iteration, or aggregate, or series) of events, each of which is a bounded process – in this case a series of bounded dancing events. 
+A habit is understood to be a complex process consisting of a series (or iteration, or aggregate, or plurality) of events, each of which is a bounded process – in this case a series of bounded dancing events. 
 
 Here are some relevant definitions:
 
@@ -113,7 +113,7 @@ Here are some relevant definitions:
 ∀xy. series-of(x,y) → process(x) ∧ event(y)
 ```
 
-In sum, to say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but admittedly is probably not engaged in one of these right now at the moment of utterance.
+In sum, to say that *Kate dances* is usually to say that Kate currently engages in regular episodes of dancing, but is probably not engaged in one of these right now at the moment of utterance.
 
 ### Simple past – *Kate danced*
 
@@ -125,7 +125,7 @@ In accordance with Comrie’s characterisation of past tense meaning above, the 
 ∃xy. before(x,NOW) ∧ bounds(x,y) ∧ dancing(y) ∧ actor(y,KATE)
 ```
 
-As a graph:
+Or, in graph form:
 
 ```mermaid
 graph TD
@@ -144,9 +144,11 @@ This is the sense that *Kate danced* has in the following kind of contexts:
 >
 > Kate danced, for 25 minutes.
 
-In this sense, Kate danced described a bounded event, composed of a process.
+In this sense, Kate danced described a bounded event, composed of a process, with a definite beginning and end.
 
-But there is also another meaning, related to the habitual meaning of the simple present discussed above:
+However, there is also another meaning, related to the habitual meaning of the simple present discussed above:
+
+HERE
 
 ```
 ∃xyz. before(x,NOW) ∧ series-of(x,y) ∧ bounds(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
