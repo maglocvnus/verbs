@@ -34,7 +34,7 @@ The lexical verb here is *dance*, which intrinsically describes a **process** (r
 - Processes and events are *dynamic*, whereas states are not.
 - Events are *bounded*, whereas processes and states are not. 
 
-So, a process like dancing is a dynamic, non-bounded situation.
+So, a process like *dancing* is a dynamic, non-bounded situation.
 
 We can formalise these definitions as follows:
 
@@ -83,10 +83,10 @@ In other words, there is a process involving Kate doing some dancing, which is t
 
 However, for some reason, and unlike in most other languages we might be familiar with, the simple present tense in English doesn’t work like that with process and event (ie. dynamic) verbs.
 
-Rather, the unmarked meaning of *Kate dances* is the description of a current **habit**, rather than simply a current process:
+Rather, the most common meaning of *Kate dances* is to describe a current **habit**, rather than simply a current process:
 
 ```
-∃xyz. at(x,NOW) ∧ plurality-of(x,y) ∧ composed-of(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
+∃xyz. at(x,NOW) ∧ series-of(x,y) ∧ bounds(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
 
 As a graph:
@@ -98,8 +98,8 @@ graph TD
   z([dancing])
   kate([KATE])
   now([NOW])
-  x -- pluralityOf --> y
-  y -- composedOf --> z
+  x -- seriesOf --> y
+  y -- bounds --> z
   z -- actor --> kate
   x -- at --> now
 ```
@@ -109,8 +109,8 @@ A habit is understood to be a complex process consisting of a plurality (or iter
 Here are some relevant definitions:
 
 ```
-∀xy. composed-of(x,y) → event(x) ∧ process(y)
-∀xy. plurality-of(x,y) → process(x) ∧ event(y)
+∀xy. bounds(x,y) → event(x) ∧ process(y)
+∀xy. series-of(x,y) → process(x) ∧ event(y)
 ```
 
 In sum, to say that *Kate dances* is to say that Kate currently engages in regular episodes of dancing, but admittedly is probably not engaged in one of these right now at the moment of utterance.
@@ -122,7 +122,7 @@ In the simple past example *Kate danced*, the past tense suffix *-(e)d* has been
 In accordance with Comrie’s characterisation of past tense meaning above, the most common meaning of *Kate danced* is probably this:
 
 ```
-∃xy. before(x,NOW) ∧ composed-of(x,y) ∧ dancing(y) ∧ actor(y,KATE)
+∃xy. before(x,NOW) ∧ bounds(x,y) ∧ dancing(y) ∧ actor(y,KATE)
 ```
 
 As a graph:
@@ -130,7 +130,7 @@ As a graph:
 ```mermaid
 graph TD
   x([event])
-  x -- composedOf --> y
+  x -- bounds --> y
   y([dancing])
   kate([KATE])
   now([NOW])
@@ -138,16 +138,18 @@ graph TD
   x -- before --> now
 ```
 
-This is the sense that *Kate danced* has in the following kind of context: 
+This is the sense that *Kate danced* has in the following kind of contexts: 
 
 > Kate drank a glass of cider. She danced. She went to the restroom. She danced again. She went home and watched TV.
 >
 > Kate danced, for 25 minutes.
 
-But there is also another meaning:
+In this sense, Kate danced described a bounded event, composed of a process.
+
+But there is also another meaning, related to the habitual meaning of the simple present discussed above:
 
 ```
-∃xyz. before(x,NOW) ∧ plurality-of(x,y) ∧ composed-of(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
+∃xyz. before(x,NOW) ∧ series-of(x,y) ∧ bounds(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
 
 Graph:
@@ -159,8 +161,8 @@ graph TD
   z([dancing])
   kate([KATE])
   now([NOW])
-  x -- pluralityOf --> y
-  y -- composedOf --> z
+  x -- seriesOf --> y
+  y -- bounds --> z
   z -- actor --> kate
   x -- before --> now
 ```
@@ -170,6 +172,9 @@ In context:
 > I lived with two girls, Kate and Lucy. Lucy sang and played piano. Kate danced.
 >
 > Kate danced, every Wednesday evening.
+
+past historic versus imperfect in Romance languages?
+
 
 Third meaning?
 
@@ -199,7 +204,7 @@ Context:
 > Kate danced, every Wednesday evening until she turned 35.
 
 
-
+Russian aspect?
 
 
 ----
