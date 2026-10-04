@@ -2,7 +2,7 @@
 
 Every finite verb form in English has grammatical tense – either <mark>present</mark> tense or <mark>past</mark> tense. 
 
-Here are some present tense finite verb forms:
+Here are some present tense forms:
 - *Kate **dances**.*
 - *Kate **is** dancing.*
 - *Kate **will** dance.*
@@ -11,7 +11,7 @@ Here are some present tense finite verb forms:
 - *Kate **has** been dancing.*
 - *Kate **will** have been dancing.*
 
-And here are the corresponding past tense finite verb forms:
+And here are the corresponding past tense forms:
 - *Kate **danced**.*
 - *Kate **was** dancing.*
 - *Kate **would** dance.*
@@ -20,17 +20,19 @@ And here are the corresponding past tense finite verb forms:
 - *Kate **had** been dancing.*
 - *Kate **would** have been dancing.*
 
-For Comrie:
-- When a finite verb is in the present tense, this just means that the situation (event, process or state) described by the verb **IS true** at the moment of utterance.
-- When a finite verb is in the past tense, this just means that the situation described by the verb **WAS true** at some moment that precedes the moment of utterance.
+Comrie’s theory of the semantics of grammatical tense can be summarised as follows:
+- A present tense finite verb refers to a situation (event, process or state) which is true at the moment of utterance.
+- A past tense finite verb refers to a situation which **was** true at some moment **before** the moment of utterance.
+
+Let’s look at how this works out for the two English tenses.
 
 ## Simple tenses
 
-Let’s start with the so-called ‘simple tense’ examples:
+Let’s start with the two so-called ‘simple tense’ examples:
 - *Kate **dances**.*
 - *Kate **danced**.*
 
-The lexical verb here is *dance*, which intrinsically describes a **process** (rather than an event or state). Simply put:
+The lexical verb here is *dance*, which intrinsically describes a **process** (or activity), rather than an event or state). Simply put:
 - Processes and events are *dynamic*, whereas states are not.
 - Events are *bounded*, whereas processes and states are not. 
 
@@ -49,6 +51,9 @@ Or as an inheritance hierarchy:
 
 ```mermaid
 graph TD
+  entity --> situation
+  entity --> dynamic
+  entity --> bounded
   situation --> process
   dynamic --> process
   situation --> event
@@ -144,17 +149,15 @@ This is the sense that *Kate danced* has in the following kind of contexts:
 >
 > Kate danced, for 25 minutes.
 
-In this sense, Kate danced described a bounded event, composed of a process, with a definite beginning and end.
+In this sense, *Kate danced* describes a bounded event, composed of a process, with a definite beginning and end.
 
 However, there is also another meaning, related to the habitual meaning of the simple present discussed above:
-
-HERE
 
 ```
 ∃xyz. before(x,NOW) ∧ series-of(x,y) ∧ bounds(y,z) ∧ dancing(z) ∧ actor(z,KATE) 
 ```
 
-Graph:
+This meaning is encoded in the following graph:
 
 ```mermaid
 graph TD
@@ -169,22 +172,25 @@ graph TD
   x -- before --> now
 ```
 
-In context:
+In this sense, *Kate danced* refers to a prior habit – a series of bounded dancing events that was true at some moment in the past, but may not be true at the moment of utterance (ie. she may have given up dancing).
+
+This sense is relevant in the following kinds of context:
 
 > I lived with two girls, Kate and Lucy. Lucy sang and played piano. Kate danced.
 >
 > Kate danced, every Wednesday evening.
 
-past historic versus imperfect in Romance languages?
+Romance languages like French, Italian or Spanish tend to have different past tense verb forms for these two different senses:
+- The past historic form *Kate dansa* is used to refer to a bounded event in the past (at least in written French).
+- The imperfect form *Kate dansait* is used to refer to a past habitual process.
 
-
-Third meaning?
+There may also be a third sense of *Kate danced*:
 
 ```
-∃xyzw. before(x,NOW) ∧ composed-of(x,y) ∧ plurality-of(y,z) ∧ composed-of(z,w) ∧ dancing(w) ∧ actor(w,KATE) 
+∃xyzw. before(x,NOW) ∧ bounds(x,y) ∧ series-of(y,z) ∧ bounds(z,w) ∧ dancing(w) ∧ actor(w,KATE) 
 ```
 
-Graph:
+Or as a graph:
 
 ```mermaid
 graph TD
@@ -194,19 +200,18 @@ graph TD
   w([dancing])
   kate([KATE])
   now([NOW])
-  x -- composedOf --> y
-  y -- pluralityOf --> z
-  z -- composedOf --> w
+  x -- bounds --> y
+  y -- seriesOf --> z
+  z -- bounds --> w
   w -- actor --> kate
   x -- before --> now
 ```
 
-Context:
+In this sense, *Kate danced* refers to a bounded habit in the past, as in the following kind of context:
 
-> Kate danced, every Wednesday evening until she turned 35.
+> Kate danced, every Wednesday evening until she turned 35. 
 
-
-Russian aspect?
+Something akin to this sense is encoded in the distributive perfective aspect in Slavic languages.
 
 
 ----
