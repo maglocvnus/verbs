@@ -24,7 +24,11 @@ Comrie’s theory of the semantics of grammatical tense can be summarised as fol
 - A present tense finite verb refers to a situation (event, process or state) which is true at the moment of utterance.
 - A past tense finite verb refers to a situation which **was** true at some moment **before** the moment of utterance.
 
-Let’s look at how this works out for the two English tenses.
+Let’s look at how this works out for the two English tenses:
+- [simple tenses](#simple-tenses)
+  - [simple present – *Kate dances*](#simple-present--kate-dances)
+  - [simple past – *Kate danced*](#simple-past--kate-danced)
+- [progressive construction](#progressive-construction)
 
 ## Simple tenses
 
@@ -212,6 +216,12 @@ In this sense, *Kate danced* refers to a bounded habit in the past, as in the fo
 > Kate danced, every Wednesday evening until she turned 35. 
 
 Something akin to this sense is encoded in the distributive perfective aspect in Slavic languages.
+
+## Progressive construction
+
+### Kate is dancing
+
+### Kate was dancing
 
 
 ----
