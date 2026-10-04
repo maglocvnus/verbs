@@ -29,6 +29,8 @@ Let’s look at how this works out for the two English tenses:
   - [simple present – *Kate dances*](#simple-present--kate-dances)
   - [simple past – *Kate danced*](#simple-past--kate-danced)
 - [progressive construction](#progressive-construction)
+  - [present progressive – *Kate is dancing*](#present-progressive--kate-is-dancing)
+  - [past progressive – *Kate was dancing*](#past-progressive--kate-was-dancing)
 
 ## Simple tenses
 
@@ -66,6 +68,8 @@ graph TD
   situation --> state
   process --> dancing
 ```
+
+Back up to: [Top](#)
 
 ### Simple present – *Kate dances*
 
@@ -123,6 +127,8 @@ Here are some relevant definitions:
 ```
 
 In sum, to say that *Kate dances* is usually to say that Kate currently engages in regular episodes of dancing, but is probably not engaged in one of these right now at the moment of utterance.
+
+Back up to: [Top](#)
 
 ### Simple past – *Kate danced*
 
@@ -217,11 +223,43 @@ In this sense, *Kate danced* refers to a bounded habit in the past, as in the fo
 
 Something akin to this sense is encoded in the distributive perfective aspect in Slavic languages.
 
+Back up to: [Top](#)
+
 ## Progressive construction
 
-### Kate is dancing
+Let’s now look at the two simple tense ‘progressive’ examples:
+- *Kate **is dancing**.*
+- *Kate **was dancing**.*
 
-### Kate was dancing
+The progressive constructing involves a form of the auxiliary verb *be* taking as its complement the present participle of a lexical verb – in this case *dancing* is the present participle of the process verb *dance*, and *be dancing* is a progressive construction.
+
+Semantics of the progressive? For a process verb?
+
+```
+∃x. dancing(x) ∧ actor(x,KATE)
+```
+
+
+
+Back up to: [Top](#)
+
+### Present progressive – *Kate is dancing*
+
+```
+∃x. dancing(x) ∧ actor(x,KATE) ∧ at(x,NOW)
+```
+
+Back up to: [Top](#)
+
+### Past progressive – *Kate was dancing*
+
+```
+∃x. dancing(x) ∧ actor(x,KATE) ∧ before(x,NOW)
+```
+
+Imperfect tense?
+
+Back up to: [Top](#)
 
 
 ----
