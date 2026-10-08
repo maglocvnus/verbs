@@ -1,5 +1,12 @@
 # Verbs
 
+Contents:
+- Arabic
+- Bulgarian
+- [Persian](Persian.md)
+- Russian
+
+
 p. 304
 
 “The category of tense has to do with time-relations in so far as these are expressed by systematic grammatical contrasts.”
