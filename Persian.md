@@ -27,7 +27,39 @@ Past tense:
 
 personal endings next
 
+The personal endings for verbs are:
+- \[1sg\] `-am`
+- \[2sg\] `-i`
+- \[3sg\] `-ad` – only before a present verb stem, otherwise null
+- \[1pl\] `-im`
+- \[2pl\] `-id`
+- \[3pl\] `-and`
 
+A Persian verb has two distinct stems – a present stem, and a past stem.
+
+Given one stem it is not usually possible to predict the other.
+
+For example:
+- gir-, gereft- 'take, took'
+- nevis-, nevešt- 'write, wrote'
+- deh-, dād- 'give, gave'
+- kon-, kard- ‘make/do’
+- dār-, dāšt-,  ‘have’
+- bin-, did- ‘see’
+- rav-, raft- ‘go’
+- šav-, šod- ‘become’
+
+Verb stems are perfective by default. Use the prefix *mi-* to turn them into imperfective stems.
+
+Present indicative: mi + present stem + personal ending
+- negative: ne + mi + present stem + personal ending
+
+Present subjunctive: be + present stem + personal ending
+- negative: ne + be + present stem + personal ending
+
+Past perfective: past stem + personal ending
+
+Past imperfective: mi + past stem + personal ending
 
 ----
 
