@@ -26,11 +26,29 @@ John Lyons (1968) – *Introduction to Theoretical Linguistics*. §7.5. ‘Tense
 
 ### 5.2.2. Perfect as present plus past
 
-Celtic languages – present form of copula plus preposition meaning ‘after’:
-- I am after writing the letter
+\[Comrie 1976: 106–10\]
 
-Present tense of auxiliary verb be/have plus past participle
-- Bulgarian, French/Italian/Spanish, German 
+§1. It is very common among languages for present perfect meaning to be encoded by means of a present tense auxiliary verb governing a predicate invoking the relative past-ness of some situation. 
+
+§2. For example, the Celtic languages use a construction literally translatable as something like ‘I am after writing the letter’:
+- `Yr ydwyf i wedi ysgrifennu’r llythyr.` \[<mark>Welsh</mark>\]
+- `Tha an t-each air briseadh can a’ bhalaich.` \[<mark>Gaelic</mark>\]
+- `Táim tar éis teacht isteach.` ‘I have just come in.’ \[<mark>Irish</mark>\]
+
+§3. <mark>Bulgarian</mark> uses the auxiliary meaning ‘be’ and the past participle:
+- `Ivan e došel.` ‘John has arrived.’
+- `Ivan e kupil knigata.` ‘John has bought the book.’
+
+§4. <mark>Spanish</mark> uses the auxiliary meaning ‘have’ with the past participle (as does English):
+- `Juan ha comprado un libro.`
+
+§5. French, Italian and German use both auxiliaries – ‘be’ with (some?) intransitive verbs, and ‘have’ with transitives.
+- `Jean est arrivé.` vs. `Jean a acheté un livre.`
+- `Gianni è arrivato.` vs. ‘Gianni ha comprato un libro.’
+- `Hans ist angekommen.` vs. `Hans hat ein Buch gekauft.`
+
+
+
 
 Some languages have extended the perfect meaning of this construction to encompass past perfective meaning as well:
 - French, German, Slavonic (except Bulgarian and Macedonian)
