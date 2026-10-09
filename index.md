@@ -35,25 +35,27 @@ John Lyons (1968) – *Introduction to Theoretical Linguistics*. §7.5. ‘Tense
 - `Tha an t-each air briseadh can a’ bhalaich.` \[<mark>Gaelic</mark>\]
 - `Táim tar éis teacht isteach.` ‘I have just come in.’ \[<mark>Irish</mark>\]
 
-§3. More commonly though, languages use a past participle in the perfect construction.
+§3. More commonly though, languages use a **past participle** in the perfect construction.
 
-§4. <mark>Bulgarian</mark> uses the past participle with the auxiliary verb meaning ‘be’:
+§4. For example, <mark>Bulgarian</mark> uses the past participle with the auxiliary verb meaning ‘be’:
 - `Ivan e došel.` ‘John has arrived.’
 - `Ivan e kupil knigata.` ‘John has bought the book.’
 
 §5. <mark>Spanish</mark> (like English) uses the auxiliary verb meaning ‘have’ instead:
 - `Juan ha comprado un libro.`
 
-§6. And other languages use both auxiliary verbs – generally ‘be’ with unaccusative verbs, and ‘have’ with other intransitives and transitives.
+§6. And other languages use both auxiliary verbs – generally ‘be’ with unaccusative intransitive verbs, and ‘have’ with the rest:
 - `Jean est arrivé.` vs. `Jean a acheté un livre.` \[<mark>French</mark>\]
-- `Gianni è arrivato.` vs. ‘Gianni ha comprato un libro.’
-- `Hans ist angekommen.` vs. `Hans hat ein Buch gekauft.`
+- `Gianni è arrivato.` vs. ‘Gianni ha comprato un libro.’ \[<mark>Italian</mark>\]
+- `Hans ist angekommen.` vs. `Hans hat ein Buch gekauft.` \[<mark>German</mark>\]
+
+§7. In some languages the meaning of this perfect construction has been extended to include past perfective meaning as well:
+- Romance languages, including French
+- most forms of German
+- most Slavonic languages (except Bulgarian and Macedonian).
 
 
 
-
-Some languages have extended the perfect meaning of this construction to encompass past perfective meaning as well:
-- French, German, Slavonic (except Bulgarian and Macedonian)
 - Russian then lost the copula, leaving just the past participle. (Czech has lost it in 3rd singular only)
 
 Hindi/Urdu/Punjabi:
