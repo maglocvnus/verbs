@@ -22,3 +22,34 @@ p. 306
 
 John Lyons (1968) – *Introduction to Theoretical Linguistics*. §7.5. ‘Tense, mood and aspect’.
 
+----
+
+### 5.2.2. Perfect as present plus past
+
+Celtic languages – present form of copula plus preposition meaning ‘after’:
+- I am after writing the letter
+
+Present tense of auxiliary verb be/have plus past participle
+- Bulgarian, French/Italian/Spanish, German 
+
+Some languages have extended the perfect meaning of this construction to encompass past perfective meaning as well:
+- French, German, Slavonic (except Bulgarian and Macedonian)
+- Russian then lost the copula, leaving just the past participle. (Czech has lost it in 3rd singular only)
+
+Hindi/Urdu/Punjabi:
+- contrast between be + (active) past participle (perfect meaning) and the participle on its own (past perfective)
+
+Finnish:
+- *negative* past perfective meaning expressed by bare past participle, adding the copula give perfect meaning.
+
+Georgian similar
+
+Changing the tense of the auxiliary to past tense gives past perfect meaning in most of these languages.
+
+### 5.2.2.1. Perfect and inferential
+
+Some languages have inferential verbs forms, where the speaker is reporting an event that she has not herself witnessed
+- Turkish (and by areal influence Bulgarian and Georgian)
+- Estonian (independent development)
+
+----
