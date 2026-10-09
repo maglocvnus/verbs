@@ -35,7 +35,7 @@ John Lyons (1968) – *Introduction to Theoretical Linguistics*. §7.5. ‘Tense
 - `Tha an t-each air briseadh can a’ bhalaich.` \[<mark>Gaelic</mark>\]
 - `Táim tar éis teacht isteach.` ‘I have just come in.’ \[<mark>Irish</mark>\]
 
-§3. More commonly though, languages use a **past participle** in the perfect construction.
+§3. More commonly though, languages use a **past participle** in the present perfect.
 
 §4. For example, <mark>Bulgarian</mark> uses the past participle with the auxiliary verb meaning ‘be’:
 - `Ivan e došel.` ‘John has arrived.’
@@ -54,6 +54,14 @@ John Lyons (1968) – *Introduction to Theoretical Linguistics*. §7.5. ‘Tense
 - most forms of German
 - most Slavonic languages (except Bulgarian and Macedonian).
 
+§8. Russian has taken this a step further, by dropping the auxiliary:
+- Old Russian: `Kolja e kupil knigu.` ‘Kolya (has) bought the book.’
+- Modern Russian: `Kolja kupil knigu.` ‘Kolya (has) bought the book.’
+
+Thus, the Modern Russian past simple tense is derived historically from the past participle (hence the lack of person agreement).
+
+§9. Czech has followed the same path as Russian, but only for the third person:
+- Koupil jsem knihu. ‘I bought the book.’
 
 
 - Russian then lost the copula, leaving just the past participle. (Czech has lost it in 3rd singular only)
