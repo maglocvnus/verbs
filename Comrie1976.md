@@ -3,4 +3,4 @@
 
 ----
 
-Back up to: [Verbs](../index.md)
+Back up to: [Verbs](index.md)
