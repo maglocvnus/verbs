@@ -9,6 +9,25 @@
 
 \[pp. 78–82\]
 
+In written Arabic, there are two categories of finite verb, *Perfective* and *Imperfective*.
+
+In temporal isolation (ie. unmodified by an overt temporal adverbial and outside the scope of another finite verb):
+- A Perfective verb is interpreted as describing an event that happened *prior* to the moment of utterance (ie. absolute past).
+- An Imperfective verb is interpreted as describing a state/process that holds *at* the moment of utterance (ie. absolute present).
+
+However, when modified by a temporal adverbial referring to a time *after* the moment of utterance (ie. in the absolute future), a matrix Imperfective verb can be interpreted as referring to an *event* that is predicted to happen at that time. In other words, an sentence with a surface meaning like ‘God is judging them tomorrow’ can be interpreted as saying ‘God will judge them tomorrow’.
+Therefore, the difference between the Arabic Perfective and Imperfective cannot be purely a matter of perfective versus imperfective aspect, since a Imperfective verb can have perfective meaning.
+
+Moreover, when Imperfective verb X is modified by a temporal adverbial that consists of the conjunction meaning ‘when’ governing a subordinate Perfective verb Y, then Y can be interpreted as referring to an event that is predicted to happen *subsequent to* the moment of utterance. So, a sentence with a surface meaning like ‘I am coming when the date ripened’ can be interpreted as saying ‘I will come when the date has ripened.’ Thus, the difference between the Arabic Perfective and Imperfective cannot be purely a matter of past versus non-past *absolute* tense, since a Perfective verb can have absolute future meaning.
+
+Can the difference between the Arabic Perfective and Imperfective be a matter of past versus non-past *relative* tense?
+
+(bottom of page 79)
+
+
+
+
+
 <mark>Written Arabic</mark>
 - two verb forms - Perfective and Imperfective
 - absence of temporal adverbs:
@@ -30,6 +49,9 @@ Imperfective = relative non-past
 
 
 <mark>Chinese</mark>:
+
+
+
 
 
 ### 4.5. *Aspect and time reference in tenseless languages*
