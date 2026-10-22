@@ -20,16 +20,23 @@ However, when modified by an absolute future temporal adverbial:
 
 In other words, an Arabic sentence with a surface meaning like ‘God be judging them tomorrow’ can be interpreted as ‘God will judge them tomorrow’.
 
-This means that the difference between the Arabic Perfect and Imperfect is not purely a matter of perfective versus imperfective aspect – an Imperfect verb can have perfective meaning.
+This means that the difference between the Arabic Perfect and Imperfect is not purely a matter of perfective versus imperfective aspect – an Imperfect verb can have both imperfective and perfective meaning.
 
 Moreover, when a non-subordinate Imperfect verb *X* is temporally modified by a *when*-clause headed by a subordinate Perfect verb *Y*:
 - *Y* can have *absolute future* meaning.
 
 In other words, an Arabic sentence with a surface meaning like ‘I be coming when the date ripened’ can be interpreted as ‘I will come when the date has ripened.’ 
 
-This means that the difference between the Arabic Perfect and Imperfect is not purely a matter of absolute past versus absolute non-past tense – a Perfect verb can have absolute non-past meaning.
+This means that the difference between the Arabic Perfect and Imperfect is not purely a matter of absolute past versus absolute non-past tense – a Perfect verb can have both absolute past and absolute non-past meaning.
 
-Can the difference between the Arabic Perfective and Imperfective be a matter of past versus non-past *relative* tense?
+
+
+Can the difference between the Arabic Perfect and Imperfect be a matter of past versus non-past *relative* tense?
+
+Perfect – past perfective meaning (incl. relative to a future event)
+Imperfect – everything else, ie. past and non-past imperfective, future perfective.
+
+
 
 (bottom of page 79)
 
