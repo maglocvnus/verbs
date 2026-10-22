@@ -9,6 +9,29 @@
 
 \[pp. 78–82\]
 
+<mark>Written Arabic</mark>
+- two verb forms - Perfective and Imperfective
+- absence of temporal adverbs:
+  - perfective forms: perfective and past
+  - imperfective forms: imperfective and present
+
+But: Imperfective forms can be interpreted as future and perfective when there is a future time adverbial
+
+And: Perfective forms can be interpreted as having relative past time reference but be in the absolute future:
+
+imperfective X + when + perfective Y – X will happen when Y has happened 
+
+X happening when Y happened
+
+X happened Y happening – X happened in order that Y would happen
+
+Perfective = relative past
+Imperfective = relative non-past
+
+
+<mark>Chinese</mark>:
+
+
 ### 4.5. *Aspect and time reference in tenseless languages*
 
 \[pp. 82–4]]
