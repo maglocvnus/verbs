@@ -1,6 +1,7 @@
 # Verbs
 
 Contents:
+- Bernard Comrie (1976) [*Aspect*](Comrie1976.md)
 - Arabic
 - Bulgarian
 - [Persian](Persian.md)
