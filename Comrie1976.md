@@ -9,18 +9,18 @@
 
 \[pp. 78–82\]
 
-In written <mark>Arabic</mark>, every finite verb form is either *Perfect* or *Imperfect*. Neither of these (morphologically distinct) forms can be said to derive from the other.
-The meaning distinction between these two forms cannot be defined solely in terms of either aspect or tense, but requires reference to both:
-- Perfect = (relative) past perfective
-- Imperfect = imperfective and/or non-past
+In written <mark>Arabic</mark>, every finite verb form is inflectionally either *Perfect* or *Imperfect* (and neither of these forms can be said to derive from the other).
+Importantly, the meaning distinction between these two forms cannot be defined solely in terms of either aspect or tense, but requires reference to both:
+- Perfect = perfective aspect AND past tense (relative to the temporal focus)
+- Imperfect = imperfective aspect OR non-past tense (relative to the temporal focus).
 
-
-
-In temporal isolation (ie. both unmodified by an overt temporal adverbial and non-subordinate to another finite verb):
-- a Perfect verb form usually has (absolute) *past perfective* meaning
-- an Imperfect verb form usually has (absolute) *present imperfective* meaning.
-
-Past imperfective?
+Some further details:
+1. In temporal isolation (ie. the finite verb is neither modified by a temporal adverbial nor subordinate to another finite verb):
+  - the temporal focus is the *moment of utterance*
+  - non-past tense is *present tense*.
+2. When modified by a temporal adverbial which has past tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’): ie. past temporal focus?
+  - a non-subordinate Imperfect verb is coerced into having (absolute) *past* imperfective meaning
+  - \[<mark>MM</mark>: Is this not just *relative present*, relative to the absolute past time of the adverbial?\]
 
 However, when modified by an (absolute) future temporal adverbial:
 - a non-subordinate Imperfect verb form may be coerced into having (absolute) *future perfective* meaning.
