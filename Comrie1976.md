@@ -9,18 +9,27 @@
 
 \[pp. 78–82\]
 
-In written <mark>Arabic</mark>, every finite verb is either *Perfect* or *Imperfect*.
+In written <mark>Arabic</mark>, every finite verb form is either *Perfect* or *Imperfect*. Neither of these (morphologically distinct) forms can be said to derive from the other.
 
 In temporal isolation (ie. both unmodified by an overt temporal adverbial and non-subordinate to another finite verb):
-- a Perfect verb usually has *absolute past perfective* meaning
-- an Imperfect verb usually has *absolute present imperfective* meaning.
+- a Perfect verb form usually has (absolute) *past perfective* meaning
+- an Imperfect verb form usually has (absolute) *present imperfective* meaning.
 
-However, when modified by an absolute future temporal adverbial:
-- a non-subordinate Imperfect verb can also have *absolute future perfective* meaning.
+Past imperfective?
+
+However, when modified by an (absolute) future temporal adverbial:
+- a non-subordinate Imperfect verb form may be coerced into having (absolute) *future perfective* meaning.
 
 In other words, an Arabic sentence with a surface meaning like ‘God be judging them tomorrow’ can be interpreted as ‘God will judge them tomorrow’.
 
-This means that the difference between the Arabic Perfect and Imperfect is not purely a matter of perfective versus imperfective aspect – an Imperfect verb can have both imperfective and perfective meaning.
+This means that the difference between the Arabic Perfect and Imperfect is *not* simply a matter of perfective versus imperfective aspect.
+
+
+
+Perfect: (absolute) past perfective
+Imperfect: everything else – imperfective meaning and/or (absolute) non-past meaning
+
+
 
 Moreover, when a non-subordinate Imperfect verb *X* is temporally modified by a *when*-clause headed by a subordinate Perfect verb *Y*:
 - *Y* can have *absolute future* meaning.
