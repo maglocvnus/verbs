@@ -25,12 +25,17 @@ Some further details:
     
 HERE
   
-2. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
-  - Imperfect = imperfective aspect and *past* tense relative to the moment of utterance
+3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
+  - Perfect = perfective aspect and absolute past tense
+  - Imperfect = imperfective aspect and *absolute past* tense.
+
+Why?
+  
   - \[<mark>MM</mark>: Is this not just *present* tense, relative to the time of the adverbial?\]
 
-3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
-  - Imperfect = (optional) *perfective* aspect and *future* tense, relative to the moment of utterance.
+4. When a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
+  - Perfect = ungrammatical
+  - Imperfect = (optional?) *perfective* aspect and *absolute future* tense.
   - MM: present tense relative t the future moment?
 
 
