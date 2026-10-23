@@ -10,20 +10,24 @@
 \[pp. 78–82\]
 
 In written <mark>Arabic</mark>, every finite verb form is inflectionally either *Perfect* or *Imperfect* (and neither of these forms can be said to derive from the other).
-Comrie suggests that the meaning distinction between these two forms cannot be defined solely in terms of either aspect or tense, but requires reference to both:
+Comrie suggests that the meaning distinction between these two classes of form cannot be defined solely in terms of either aspect or tense, but requires reference to both:
 - Perfect = perfective aspect AND past tense (relative to the temporal focus)
 - Imperfect = imperfective aspect OR non-past tense (relative to the temporal focus).
 
 Some further details:
 1. In temporal isolation (ie. where the finite verb form is neither modified by a temporal adverbial nor subordinate to another finite verb form):
   - the temporal focus is the *moment of utterance*
-  - non-past tense is *present tense*.
-2. When a non-subordinate Imperfect finite verb form is modified by a temporal adverbial which has past tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’): ie. past temporal focus?
-  - a non-subordinate Imperfect verb is coerced into having (absolute) *past* imperfective meaning
-  - \[<mark>MM</mark>: Is this not just *relative present*, relative to the absolute past time of the adverbial?\]
+  - Imperfect = imperfective aspect AND *present* tense.
+2. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
+  - Imperfect = imperfective aspect and *past* tense relative to the moment of utterance
+  - \[<mark>MM</mark>: Is this not just *present* tense, relative to the time of the adverbial?\]
+3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
+  - Imperfect = (optional) *perfective* aspect and *future* tense, relative to the moment of utterance.
+  - MM: present tense relative t the future moment?
 
-However, when modified by an (absolute) future temporal adverbial:
-- a non-subordinate Imperfect verb form may be coerced into having (absolute) *future perfective* meaning.
+
+a Perfect verb form cannot be modified by a future time adverbial?
+
 
 In other words, an Arabic sentence with a surface meaning like ‘God be judging them tomorrow’ can be interpreted as ‘God will judge them tomorrow’.
 
