@@ -10,13 +10,15 @@
 \[pp. 78–82\]
 
 In written <mark>Arabic</mark>, every finite verb form is inflectionally either *Perfect* or *Imperfect* (and neither of these forms can be said to derive from the other).
-Comrie suggests that the meaning distinction between these two classes of form cannot be defined solely in terms of either aspect or tense, but requires reference to both:
+Comrie suggests that the meaning distinction between these two categories cannot be defined solely in terms of either aspect or tense, but requires reference to both:
 - Perfect = perfective aspect AND past tense (relative to the temporal focus)
 - Imperfect = imperfective aspect OR non-past tense (relative to the temporal focus).
 
 Some further details:
 1. In temporal isolation (ie. where the finite verb form is neither modified by a temporal adverbial nor subordinate to another finite verb form):
-  - the temporal focus is the *moment of utterance*
+  - the temporal focus is the *moment of utterance*, ie.
+    - Perfect = perfective aspect and absolute past tense
+    - Imperfect = imperfective aspect or absolute non-past tense 
   - Imperfect = imperfective aspect AND *present* tense.
 2. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
   - Imperfect = imperfective aspect and *past* tense relative to the moment of utterance
