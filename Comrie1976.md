@@ -15,7 +15,7 @@ Comrie suggests that the meaning distinction between these two forms cannot be d
 - Imperfect = imperfective aspect OR non-past tense (relative to the temporal focus).
 
 Some further details:
-1. In temporal isolation (ie. the finite verb is neither modified by a temporal adverbial nor subordinate to another finite verb):
+1. In temporal isolation (ie. where the finite verb is neither modified by a temporal adverbial nor subordinate to another finite verb):
   - the temporal focus is the *moment of utterance*
   - non-past tense is *present tense*.
 2. When modified by a temporal adverbial which has past tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’): ie. past temporal focus?
