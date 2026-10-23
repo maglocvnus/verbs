@@ -18,28 +18,20 @@ Some further details:
 1. In temporal isolation (ie. where the finite verb form is neither modified by a temporal adverbial nor subordinate to another finite verb form):
   - Perfect = perfective aspect and absolute past tense
   - Imperfect = imperfective aspect and absolute present tense.
-2. This can be explained by the following defaults: 
-  - The temporal focus is the moment of utterance.
-  - Imperfect verbs have imperfective aspect.
-  - Non-past tense means present tense.
-    
-HERE
-  
+2. This can be explained if we assume the following defeasible generalisations: 
+  - The temporal focus is usually the moment of utterance.
+  - Imperfect verbs usually have imperfective aspect.
+  - Imperfective aspect usually implies non-past tense.
+  - Non-past tense usually means present tense.  
 3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
   - Perfect = perfective aspect and absolute past tense
-  - Imperfect = imperfective aspect and *absolute past* tense.
+  - but: Imperfect = imperfective aspect and *absolute past* tense.
+4. And when a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
+  - Perfect = ungrammatical (or anomalous)
+  - Imperfect = *perfective* aspect and *absolute future* tense and EITHER perfective OR imperfective aspect.
 
-Why?
-  
-  - \[<mark>MM</mark>: Is this not just *present* tense, relative to the time of the adverbial?\]
+An Imperfect verb inherits its tense from the tense of a modifying temporal adverbial.
 
-4. When a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
-  - Perfect = ungrammatical
-  - Imperfect = (optional?) *perfective* aspect and *absolute future* tense.
-  - MM: present tense relative t the future moment?
-
-
-a Perfect verb form cannot be modified by a future time adverbial?
 
 
 In other words, an Arabic sentence with a surface meaning like ‘God be judging them tomorrow’ can be interpreted as ‘God will judge them tomorrow’.
