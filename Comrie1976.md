@@ -10,6 +10,11 @@
 \[pp. 78–82\]
 
 In written <mark>Arabic</mark>, every finite verb form is either *Perfect* or *Imperfect*. Neither of these (morphologically distinct) forms can be said to derive from the other.
+The meaning distinction between these two forms cannot be described solely in terms of either aspect or tense, but requires reference to both:
+- Perfect = (relative) past perfective
+- Imperfect = imperfective and/or non-past
+
+
 
 In temporal isolation (ie. both unmodified by an overt temporal adverbial and non-subordinate to another finite verb):
 - a Perfect verb form usually has (absolute) *past perfective* meaning
