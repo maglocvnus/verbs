@@ -16,15 +16,19 @@ Comrie suggests that the meaning distinction between these two categories cannot
 
 Some further details:
 1. In temporal isolation (ie. where the finite verb form is neither modified by a temporal adverbial nor subordinate to another finite verb form):
-  - the temporal focus is the *moment of utterance*
-  - Imperfect verbs have imperfective aspect
-  - imperfective aspect implies present tense.
-    - Perfect = perfective aspect and absolute past tense
-    - Imperfect = imperfective aspect or absolute non-past tense 
-  - Imperfect verbs have both imperfective meaning and *present* tense.
+  - Perfect = perfective aspect and absolute past tense
+  - Imperfect = imperfective aspect and absolute present tense.
+2. This can be explained by the following defaults: 
+  - The temporal focus is the moment of utterance.
+  - Imperfect verbs have imperfective aspect.
+  - Non-past tense means present tense.
+    
+HERE
+  
 2. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
   - Imperfect = imperfective aspect and *past* tense relative to the moment of utterance
   - \[<mark>MM</mark>: Is this not just *present* tense, relative to the time of the adverbial?\]
+
 3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
   - Imperfect = (optional) *perfective* aspect and *future* tense, relative to the moment of utterance.
   - MM: present tense relative t the future moment?
