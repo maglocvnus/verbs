@@ -10,7 +10,7 @@
 \[pp. 78–82\]
 
 In written <mark>Arabic</mark>, every finite verb form is inflectionally either ‘Perfect’ or ‘Imperfect’ (and neither of these forms can be said to derive from the other).
-Comrie suggests that the meaning distinction between these two categories cannot be defined solely in terms of either aspect or tense, but requires reference to both:
+Comrie suggests that the meaning distinction between these two categories cannot be defined solely in terms of either aspect or tense, but requires reference to both, as in:
 - Perfect = perfective aspect AND past tense (relative to the temporal focus)
 - Imperfect = ‘everything else’, ie. imperfective aspect OR non-past tense (relative to the temporal focus) OR both.
 
@@ -25,12 +25,12 @@ Some further details:
   - Non-past tense usually means present tense.  
 3. When a non-subordinate finite verb form is modified by a temporal adverbial which has *past* tense relative to the moment of utterance (eg. ‘yesterday’, ‘last Friday’):
   - Perfect = perfective aspect and absolute past tense
-  - but: Imperfect = imperfective aspect and *absolute past* tense.
+  - Imperfect = imperfective aspect and *absolute past* tense.
 4. And when a non-subordinate finite verb form is modified by a temporal adverbial which has *future* tense relative to the moment of utterance (eg. ‘tomorrow’, ‘next Friday’):
   - Perfect = ungrammatical (or anomalous)
-  - Imperfect = *perfective* aspect and *absolute future* tense and EITHER perfective OR imperfective aspect.
-
-An Imperfect verb inherits its tense from the tense of a modifying temporal adverbial.
+  - Imperfect = *absolute future* tense and EITHER perfective OR imperfective aspect.
+5. This can be explained if:
+  - An Imperfect verb inherits its tense value from the tense of a modifying temporal adverbial.
 
 
 
