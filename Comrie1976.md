@@ -9,10 +9,10 @@
 
 \[pp. 78–82\]
 
-In written <mark>Arabic</mark>, every finite verb form is inflectionally either *Perfect* or *Imperfect* (and neither of these forms can be said to derive from the other).
+In written <mark>Arabic</mark>, every finite verb form is inflectionally either ‘Perfect’ or ‘Imperfect’ (and neither of these forms can be said to derive from the other).
 Comrie suggests that the meaning distinction between these two categories cannot be defined solely in terms of either aspect or tense, but requires reference to both:
 - Perfect = perfective aspect AND past tense (relative to the temporal focus)
-- Imperfect = imperfective aspect OR non-past tense (relative to the temporal focus).
+- Imperfect = ‘everything else’, ie. imperfective aspect OR non-past tense (relative to the temporal focus) OR both.
 
 Some further details:
 1. In temporal isolation (ie. where the finite verb form is neither modified by a temporal adverbial nor subordinate to another finite verb form):
