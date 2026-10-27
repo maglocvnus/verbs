@@ -36,12 +36,33 @@ The subjunctive verb is used here to mark an irrealis embedded proposition (‘d
 \[MM: Note that doubting implies believing a negation – ‘I believe that he is not learning.’\]
 
 Examples from Amele (Papuan):
-- mm
+- `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’
+- `ho bu-busal-eb age qo-qag-an` ‘They will kill the pig as it runs out.’
 
+The Irrealis verb suffix `-eb` is used here to mark an irrealis embedded proposition (future ‘will run out’), whereas the Realis suffix `-en` marks the realis embedded proposition (remote past ‘ran out’). 
 
 ### 1.1.2. The notion of assertion
 
+A good characterisation of the difference between realis and irrealis propositions is that:
+- realis propositions are <mark>asserted</mark>
+- irrealis propositions are not asserted.
+
+This works better than trying to categorise the distinction as factual vs. non-factual, or as true vs. false.
+
+Some examples from Spanish:
+- `Dudo que sea buena idea.` ‘I doubt that it is-SUBJUNCTIVE a good idea.’ – speaker has doubts about the proposition’s veracity
+- `Necesito que me devuelvas ese libro.` ‘I need that you return-SUBJUNCTIVE me that book.’ – the proposition is unrealised
+- `Me alegra que sepas la verdad.` ‘It pleases me that you know-SUBJUNCTIVE the truth.’ – the proposition is factual, but presupposed ie. known to be true by both speaker and hearer, and hence lacking information value
+
 ## 1.2. Two basic distinctions
+
+### 1.2.1. Mood and modal systems
+
+### 1.2.2. Propositional and event modality
+
+## 1.3. The classification of modality in modal systems
+
+
 
 ----
 
