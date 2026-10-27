@@ -2,7 +2,7 @@
 
 An `utterance` ‘reports on’ one or more `situations` (events, states, actions, ...).
 
-A `proposition` ‘describes’ one or more situations.
+A `proposition` ‘describes’ (or ‘portrays’) one or more situations.
 
 Every proposition has a ‘status’ – its `modality`.
 
@@ -11,6 +11,11 @@ Every proposition has a ‘status’ – its `modality`.
 ## 1.1. Basic concepts
 
 ### 1.1.1. Realis and irrealis
+
+Mithun (1999: 173) distinguishes two basic modal statuses \[MM: two basic *types* of proposition?\]:
+- `realis` – the situations described by the proposition are ‘actualised’, actually occurring or having actually occurred, and ‘knowable through direct perception’. 
+- `irrealis` – the situations described are ‘purely within the realm of thought, knowable only through imagination‘.
+
 
 ### 1.1.2. The notion of assertion
 
