@@ -28,7 +28,15 @@ Some examples from English:
 The modal verbs are used here to mark irrealis propositions (here ‘judged‘ propositions), and to distinguish these from unmarked realis propositions (‘categorical statements’). 
 
 Some examples from Spanish:
+- `Creo que aprende.` ‘I believe that he-is-learning-INDICATIVE.’
+- `Dudo que aprenda.` ‘I doubt that he-is-learning-SUBJUNCTIVE’
 
+The subjunctive verb is used here to mark an irrealis embedded proposition (‘doubted’, ie. believed to be false), and to distinguish it from the realis embedded proposition (‘believed to be true’) marked by the corresponding indicative form.
+
+\[MM: Note that doubting implies believing a negation – ‘I believe that he is not learning.’\]
+
+Examples from Amele (Papuan):
+- mm
 
 
 ### 1.1.2. The notion of assertion
