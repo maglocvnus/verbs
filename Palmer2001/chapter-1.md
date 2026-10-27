@@ -58,6 +58,30 @@ Some examples from Spanish:
 
 ### 1.2.1. Mood and modal systems
 
+Languages can express modality in two different ways:
+- mood
+- modal systems
+
+Some languages use both devices, but in most languages, one is much more salient than the other.
+
+#### Mood
+
+In a mood language, all/most clauses are generally either:
+- realis / indicative
+- irrealis / subjunctive.
+
+#### Modal systems
+
+Modal systems are generally non-binary.
+
+Some examples involving English ‘epistemic’ modal verbs:
+- `Kate may be at home now.` – a possible conclusion, ie. <mark>speculative</mark> modality
+- `Kate must be at home now.` – the only possible conclusion. ie. <mark>deductive</mark> modality
+- `Kate will be at home now.` – a reasonable conclusion, ie. <mark>assumptive</mark> modality
+
+Some examples from the evidential system of Central Pomo:
+
+
 ### 1.2.2. Propositional and event modality
 
 ## 1.3. The classification of modality in modal systems
