@@ -189,6 +189,21 @@ There are two main types of evidential modality, each of which subsumes two or t
 
 ### 1.3.2. Deontic and dynamic
 
+There are two main types of event modality:
+- deontic modality — the conditioning factors are **external** to the relevant individual, relating to obligation or permission emanating from an external source, eg. the law, the speaker
+- dynamic modality — the conditioning factors are **internal**, ie. ability or willingness.
+
+Examples of deontic modality:
+- `John may/can come in now.` — <mark>permissive modality</mark>
+- `John must come in now.` — <mark>obligative modality</mark>
+
+Examples of dynamic modality:
+- `John can speak French.` — <mark>abilitative modality</mark>
+- `John will do it for you.` — <mark>volitive modality</mark>
+
+Note that deontic modal clauses are often **directives**, attempts to get others to do things.
+
+Note also that ability is not just a matter of the subject’s physical or mental powers. MMMM
 
 [Back up to top](#)
 
