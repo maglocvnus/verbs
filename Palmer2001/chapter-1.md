@@ -107,7 +107,51 @@ Some examples from the evidential system of Central Pomo:
 
 ### 1.2.2. Propositional and event modality
 
+There is a core distinction between:
+- <mark>propositional modality</mark> — concerned with the speaker’s judgment of a proposition, her attitude towards its truth value or factual status
+- <mark>event modality</mark> — concerned with the speaker’s attitude towards a potential future event, an event that is not yet actualised. 
+
+The following examples exhibit one kind of propositional modality (<mark>epistemic modality</mark>):
+
+- `Kate may be at home now.`
+- `Kate must be at home now.`
+
+Propositional modality can be paraphrased using `that`:
+
+- `It is possible that Kate is at home now.`
+- `It is necessarily the case that Kate is at home now,`
+
+Another kind of propositional modality is <mark>evidential modality</mark>. 
+
+The following examples exhibit one kind of event modality (<mark>deontic modality</mark>):
+
+- `Kate may come in now.`
+- `Kate must come in now.`
+
+Event modality can be paraphrased using `for`:
+
+- `It is necessary for Kate to come in now.`
+- `It is possible for Kate to come in now.`
+
+Another kind of event modality is <mark>dynamic modality</mark>. 
+
+\[MM: event modality is directive, granting permission or asserting obligation\]
+
 ## 1.3. The classification of modality in modal systems
+
+## 1.4. Other types of modality
+
+### 1.4.1. Presupposed
+
+### 1.4.2. Negative and interrogative
+
+### 1.4.3. Wishes, fears, etc.
+
+### 1.4.4. Past tense as modal
+
+### 1.4.5. Complex systems
+
+## 1.5. Typology
 
 
 
