@@ -10,8 +10,13 @@ Every proposition has a <mark>status</mark> – its <mark>modality</mark>.
 
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
+  - 1.1.1. [Realis and irrealis](#111-realis-and-irrealis)
+  - 1.1.2. [The notion of assertion](#112-the-notion-of-assertion)
 - 1.2. [Two basic distinctions](#12-two-basic-distinctions)
+  - 1.2.1. [Mood and modal systems](#121-mood-and-modal-systems)
+  - 1.2.2. [Propositional and event modality](#122-propositional-and-event-modality)
 - 1.3. [The classification of modality in modal systems](#13-the-classification-of-modality-in-modal-systems)
+- 1.4. Other types of modality
 
 ## 1.1. Basic concepts
 
@@ -50,6 +55,7 @@ The Irrealis verb suffix `-eb` is used here to mark an irrealis embedded proposi
 
 \[ MM: {-in} is the remote past tense marker, {-an} is the future tense marker. Does past tense select realis, and future select irrealis? \]
 
+[Back up to top](#)
 
 ### 1.1.2. The notion of assertion
 
@@ -69,6 +75,8 @@ assertion: S wants H to add the situation to their knowledge base
 does necesito select a subjunctive always?
 
 does alegra?
+
+[Back up to top](#)
 
 ## 1.2. Two basic distinctions
 
@@ -109,6 +117,7 @@ Some examples involving English ‘epistemic’ modal verbs:
 
 Some examples from the evidential system of Central Pomo:
 
+[Back up to top](#)
 
 ### 1.2.2. Propositional and event modality
 
@@ -142,23 +151,37 @@ Another kind of event modality is <mark>dynamic modality</mark>.
 
 \[MM: event modality is directive, granting permission or asserting obligation. Think about aspect and tense.\]
 
+[Back up to top](#)
+
 ## 1.3. The classification of modality in modal systems
+
+[Back up to top](#)
 
 ## 1.4. Other types of modality
 
 ### 1.4.1. Presupposed
 
+[Back up to top](#)
+
 ### 1.4.2. Negative and interrogative
+
+[Back up to top](#)
 
 ### 1.4.3. Wishes, fears, etc.
 
+[Back up to top](#)
+
 ### 1.4.4. Past tense as modal
+
+[Back up to top](#)
 
 ### 1.4.5. Complex systems
 
+[Back up to top](#)
+
 ## 1.5. Typology
 
-
+[Back up to top](#)
 
 ----
 
