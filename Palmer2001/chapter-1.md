@@ -125,19 +125,19 @@ There is a core distinction between:
 - <mark>propositional modality</mark> — concerned with the speaker’s judgment of a proposition, her attitude towards its truth value or factual status
 - <mark>event modality</mark> — concerned with the speaker’s attitude towards a potential future event, an event that is not yet actualised. 
 
-The following examples exhibit one kind of propositional modality (<mark>epistemic modality</mark>):
+The following examples exhibit one kind of **propositional** modality — <mark>epistemic modality</mark>:
 
-- `Kate may be at home now.`
-- `Kate must be at home now.`
+- `Kate may be at home now.` (ie. speculative modality)
+- `Kate must be at home now.` (ie. deductive modality)
 
 Propositional modality can be paraphrased using `that`:
 
 - `It is possible that Kate is at home now.`
 - `It is necessarily the case that Kate is at home now,`
 
-Another kind of propositional modality is <mark>evidential modality</mark>. 
+Note that another kind of propositional modality is <mark>evidential modality</mark>. 
 
-The following examples exhibit one kind of event modality (<mark>deontic modality</mark>):
+The following examples exhibit one kind of **event modality** — <mark>deontic modality</mark>:
 
 - `Kate may come in now.`
 - `Kate must come in now.`
@@ -147,13 +147,42 @@ Event modality can be paraphrased using `for`:
 - `It is possible for Kate to come in now.`
 - `It is necessary for Kate to come in now.`
 
-Another kind of event modality is <mark>dynamic modality</mark>. 
+Note that another kind of event modality is <mark>dynamic modality</mark>. 
 
 \[MM: event modality is directive, granting permission or asserting obligation. Think about aspect and tense.\]
 
 [Back up to top](#)
 
 ## 1.3. The classification of modality in modal systems
+
+### 1.3.1. Epistemic and evidential
+
+The two main types of propositional modality are:
+- epistemic modality — speakers express their judgments about the factual status of the proposition
+- evidential modality — speakers indicate the evidence they have for a proposition’s factual status.
+
+The English modal verb examples in §1.2.1. show three subtypes of epistemic modality:
+- speculative modality — `Kate may be at home now.`
+- deductive modality — `Kate must be at home now.`
+- assumptive modality — `Kate will be at home now.`
+
+The Central Pomo examples in §1.2.1. show five subtypes of evidential modality:
+- <mark>reported modality: general knowledge</mark>
+- <mark>visual modality</mark> — first-hand personal experience, usually visual
+- <mark>auditory modality</mark> — auditory evidence
+- <mark>reported modality: hearsay</mark>
+- inference — same as deductive propositional modality.
+
+Note that inferential/deductive modality involves a judgment based on evidence, conveying the speaker’s confidence in the truth of the proposition, based on a deduction from facts known to him (which may or may not be specified), eg. *Kate must be at home (because she is not in her office)*.
+
+
+
+
+
+[Back up to top](#)
+
+### 1.3.2. Deontic and dynamic
+
 
 [Back up to top](#)
 
