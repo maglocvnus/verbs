@@ -130,12 +130,12 @@ The following examples exhibit one kind of event modality (<mark>deontic modalit
 
 Event modality can be paraphrased using `for`:
 
-- `It is necessary for Kate to come in now.`
 - `It is possible for Kate to come in now.`
+- `It is necessary for Kate to come in now.`
 
 Another kind of event modality is <mark>dynamic modality</mark>. 
 
-\[MM: event modality is directive, granting permission or asserting obligation\]
+\[MM: event modality is directive, granting permission or asserting obligation. Think about aspect and tense.\]
 
 ## 1.3. The classification of modality in modal systems
 
