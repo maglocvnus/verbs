@@ -8,6 +8,11 @@ Every proposition has a <mark>status</mark> – its <mark>modality</mark>.
 
 \[MM: What is the link between utterance and propositions? An utterance ‘contains’ one or more propositions?\]
 
+Contents:
+- 1.1. [Basic concepts](#11-basic-concepts)
+- 1.2. [Two basic distinctions](#12-two-basic-distinctions)
+- 1.3. [The classification of modality in modal systems](#13-the-classification-of-modality-in-modal-systems)
+
 ## 1.1. Basic concepts
 
 ### 1.1.1. Realis and irrealis
