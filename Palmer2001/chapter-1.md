@@ -16,7 +16,9 @@ Contents:
   - 1.2.1. [Mood and modal systems](#121-mood-and-modal-systems)
   - 1.2.2. [Propositional and event modality](#122-propositional-and-event-modality)
 - 1.3. [The classification of modality in modal systems](#13-the-classification-of-modality-in-modal-systems)
-- 1.4. Other types of modality
+  - 1.3.1. [Epistemic and evidential](#131-epistemic-and-evidential)
+  - 1.3.2. [Deontic and dynamic](#132-deontic-and-dynamic)
+- 1.4. [Other types of modality](#14-other-types-of-modality)
 
 ## 1.1. Basic concepts
 
@@ -175,9 +177,13 @@ The Central Pomo examples in §1.2.1. show five subtypes of evidential modality:
 
 Note that inferential/deductive modality involves a judgment based on evidence, conveying the speaker’s confidence in the truth of the proposition, based on a deduction from facts known to him (which may or may not be specified), eg. *Kate must be at home (because she is not in her office)*.
 
+Note also that evidentials may occur within a predominantly epistemic system. Examples from German:
+- `Er soll steinreich sein.` ‘He is said to be extremely rich.’
+- `Er will eine Mosquito abgeschossen haben.` ‘He claims to have shot down a Mosquito.’
 
-
-
+There are two main types of evidential modality, each of which subsumes two or three subtypes:
+- <mark>sensory modality</mark>
+- <mark>reported modality</mark>.
 
 [Back up to top](#)
 
