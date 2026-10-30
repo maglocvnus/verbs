@@ -1,12 +1,8 @@
 # Chapter 1: Introduction
 
-An <mark>utterance</mark> ‘reports’ one or more <mark>situations</mark> (events, states, actions, ...).
+<mark>Modality</mark> is a grammatical category of the clause, generally (but not always) marked within the verbal complex. 
 
-A <mark>proposition</mark> ‘describes’ (or ‘portrays’) one or more situations.
-
-Every proposition has a <mark>status</mark> – its <mark>modality</mark>.
-
-\[MM: What is the link between utterance and propositions? An utterance ‘contains’ one or more propositions?\]
+Modality is concerned with the ‘status’ of ‘propositions’ that ‘describe’/‘portray’ ‘situations’ (events, states, actions, …), as ‘reported’ by ‘utterances’.
 
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
@@ -24,38 +20,27 @@ Contents:
 
 ### 1.1.1. Realis and irrealis
 
-Mithun (1999: 173) distinguishes two basic modalities (ie. modal statuses) \[MM: two basic *types* of proposition?\]:
-- <mark>realis</mark> – the situations described by the proposition are ‘actualised’, actually occurring or having actually occurred, and ‘knowable through direct perception’. 
-- <mark>irrealis</mark> – the situations described are ‘purely within the realm of thought, knowable only through imagination‘.
+Modality does not refer to a characteristic of the situation reported by a clause, but rather to the status of the proposition that describes that situation. 
 
-Unfortunately, it is not always clear whether a given proposition subtype is fundamentally realis or irrealis, since languages differ considerably in how they treat commands, futures, questions, denials, reports, etc.
+In recent years, modality has generally been discussed in terms of a binary opposition between:
+- <mark>realis modality</mark> – the situations described by the proposition are ‘actualised’, actually occurring or having actually occurred, and ‘knowable through direct perception’. 
+- <mark>irrealis modality</mark> – the situations described are ‘purely within the realm of thought, knowable only through imagination‘.
 
-\[MM: Maybe realis / irrealis is a continuum? \]
+However, among languages with a grammaticalised opposition between realis and irrealis, there is considerably variation in the classification of lower-level categories (eg. commands, futures, questions, denials, reports) in terms of this opposition. 
 
-Another view is that realis propositions are better characterised as ‘non-modal’, rather than as a modality. 
+In **English**, a modal verb can be used to distinguish irrealis from realis, for example:
+- `Mary is at home.` — a ‘categorical statement’, ie. realis
+- `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
 
-Some examples from English:
-- `Mary is at home.`
-- `Mary may be at home.`
-- `Mary must be at home.`
+In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis in a subordinate clause, eg.
+- `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
+- `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
-The modal verbs are used here to mark irrealis propositions (here ‘judged‘ propositions), and to distinguish these from unmarked realis propositions (‘categorical statements’). 
+\[MM: Does `creo` always govern the indicative? Does `dudo` always govern the subjunctive? How about when the embedded clause is negated?\]
 
-Some examples from Spanish:
-- `Creo que aprende.` ‘I believe that he-is-learning-INDICATIVE.’
-- `Dudo que aprenda.` ‘I doubt that he-is-learning-SUBJUNCTIVE’
-
-The subjunctive verb is used here to mark an irrealis embedded proposition (‘doubt’. believe to be false), and to distinguish it from the realis embedded proposition (‘believe to be true’) marked by the corresponding indicative form.
-
-\[MM: Note that doubting implies believing a negation – ‘I believe that he is not learning.’ Does creo always take the indicative? Does dudo always take the subjunctive? How to translate: I believe that he is not learning, I doubt that he is not learning. \]
-
-Examples from Amele (Papuan):
-- `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’
-- `ho bu-busal-eb age qo-qag-an` ‘They will kill the pig as it runs out.’
-
-The Irrealis verb suffix `-eb` is used here to mark an irrealis embedded proposition (future ‘will run out’), whereas the Realis suffix `-en` marks the realis embedded proposition (remote past ‘ran out’). 
-
-\[ MM: {-in} is the remote past tense marker, {-an} is the future tense marker. Does past tense select realis, and future select irrealis? \]
+In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis subordinate clauses respectively, eg.
+- `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’ — realis marks remote past tense
+- `ho bu-busal-eb age qo-qag-an` ‘They will kill the pig as it runs out.’ — irrealis marks future tense.
 
 [Back up to top](#)
 
