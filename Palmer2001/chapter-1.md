@@ -46,22 +46,16 @@ In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis su
 
 ### 1.1.2. The notion of assertion
 
-A good characterisation of the difference between realis and irrealis propositions is that:
+Another characterisation of the difference between realis and irrealis modality is that:
 - realis propositions are <mark>asserted</mark>
 - irrealis propositions are not asserted.
 
-This works better than trying to categorise the distinction as factual vs. non-factual, or as true vs. false.
+The following Spanish subordinate clauses show that there are three reasons why a proposition may be ‘unworthy of assertion’, and hence contain a subjunctive verb:
+- `Dudo que sea buena idea.` ‘I doubt that it be a good idea.’ – the speaker has doubts about the proposition’s veracity
+- `Necesito que me devuelvas ese libro.` ‘I need that you return me that book.’ – the proposition is unrealised
+- `Me alegra que sepas la verdad.` ‘It pleases me that you know the truth.’ – the proposition is factual, but **presupposed** ie. known to be true by both speaker and hearer, and hence lacking information value.
 
-Some examples from Spanish:
-- `Dudo que sea buena idea.` ‘I doubt that it is-SUBJUNCTIVE a good idea.’ – speaker has doubts about the proposition’s veracity
-- `Necesito que me devuelvas ese libro.` ‘I need that you return-SUBJUNCTIVE me that book.’ – the proposition is unrealised
-- `Me alegra que sepas la verdad.` ‘It pleases me that you know-SUBJUNCTIVE the truth.’ – the proposition is factual, but presupposed ie. known to be true by both speaker and hearer, and hence lacking information value
-
-assertion: S wants H to add the situation to their knowledge base
-
-does necesito select a subjunctive always?
-
-does alegra?
+\[MM: Does `necesito` always govern the subjunctive? Does `alegra`?\]
 
 [Back up to top](#)
 
