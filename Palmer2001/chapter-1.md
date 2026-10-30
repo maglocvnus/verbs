@@ -203,7 +203,13 @@ Examples of dynamic modality:
 
 Note that deontic modal clauses are often **directives**, attempts to get others to do things.
 
-Note also that ability is not just a matter of the subject’s physical or mental powers. MMMM
+Note also that ability is not just a matter of the subject’s physical or mental powers, but can include other circumstances that immediately affect them, as in:
+- `He can go now.` — permissive
+- `He can run a mile in five minutes.` — abilitative (physical power)
+- `He can escape (because the door is not locked).` — abilitative (outside circumstances).
+
+Note also the following **commissive** modality:
+- `You shall have it tomorrow.` — I commit myself to doing this. A kind of deontic modality?
 
 [Back up to top](#)
 
