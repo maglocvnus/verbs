@@ -3,6 +3,7 @@
 Contents:
 - Bernard Comrie (1976) [*Aspect*](Comrie1976.md)
 - F. R. Palmer (2001) [*Mood and Modality – Second edition*](Palmer2001/index.md)
+- [French subjunctive](FrenchSubjunctive.md)
 - Arabic
 - Bulgarian
 - [Persian](Persian.md)
