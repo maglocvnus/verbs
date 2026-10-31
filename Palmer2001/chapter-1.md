@@ -36,17 +36,7 @@ In **English**, a modal verb can be used to distinguish irrealis from realis, fo
 - `Mary is at home.` — a ‘categorical statement’, ie. realis
 - `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
 
-> This is an example of main clause modality. It surely implies some kind of semantic representation where the representation of ‘Mary is at home’ is embedded within the scope of a modal operator ‘may/must’.
-
-```mermaid
-graph TD
-  may --> be
-  be --> Mary
-  be --> at
-  at --> home
-```
-
-> Alternatively, we can take the paraphrase ‘It is possible that Mary is at home’ as the model and assume that the complementiser is semantically meaningful:
+> This is an example of main clause modality. It surely implies some kind of semantic representation where the representation of ‘Mary is at home’ is embedded within the scope of a modal operator ‘possible/necessary’, perhaps mediated through an intervening entity (cf. ‘It is possible that Mary is at home’):
 
 ```mermaid
 graph TD
@@ -57,7 +47,7 @@ graph TD
   at --> home
 ```
 
-> Note that ‘Mary is at home’ asserts a fact about the external world; ‘Mary may be at home’, however, asserts a fact about the contents of the speaker’s mind, as does ‘Mary must be at home’.
+> Note that ‘Mary is at home’ asserts a fact about the external world; ‘Mary may/must be at home’, however, asserts a fact about the contents of the speaker’s mind.
 
 #### Spanish subjunctive
 
@@ -65,9 +55,13 @@ In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
 - `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
-\[MM: Does `creo` always govern the indicative? Does `dudo` always govern the subjunctive? How about when the embedded clause is negated?\]
+> This is an example of subordinate clause modality. The verb `creo` subcategorises for an **indicative** complement clause, because its meaning lacks enough uncertainty. On the other hand, the verb `dudo` subcategorises for a subjunctive complement clause, because it meaning implies significant uncertainty.
+>
+> This suggests that the indicative/subjunctive opposition is semantically vacuous/redundant. 
+>
+> But what about when ‘creo’ and ‘dudo’ are negated? In these cases, the subjunctive and indicative are usually switched. 
 
-> mm: this is purely grammatical and hence redundant, right? even under negation?
+#### Amele realis and irrealis suffixes
 
 In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis subordinate clauses respectively, eg.
 - `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’ — realis marks remote past tense
