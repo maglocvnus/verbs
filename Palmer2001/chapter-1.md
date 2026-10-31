@@ -48,7 +48,7 @@ graph TD
 ```
 
 
-#### Spanish subjunctive verbs
+#### Spanish subjunctive
 
 In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis in a subordinate clause, eg.
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
