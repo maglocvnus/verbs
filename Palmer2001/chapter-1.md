@@ -2,7 +2,7 @@
 
 <mark>Modality</mark> is a grammatical category of the clause, generally (but not always) marked within the verbal complex. 
 
-Modality is concerned with the ‘status’ of ‘propositions’ that ‘describe’/‘portray’ ‘situations’ (events, states, actions, …), as ‘reported’ by ‘utterances’.
+Modality is concerned with the ‘status’ of ‘propositions’ that ‘describe/portray’ ‘situations’ (events, states, actions, …), as ‘reported’ by ‘utterances’.
 
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
@@ -28,15 +28,21 @@ In recent years, modality has generally been discussed in terms of a binary oppo
 
 However, among languages with a grammaticalised opposition between realis and irrealis, there is considerably variation in the classification of lower-level categories (eg. commands, futures, questions, denials, reports) in terms of this opposition. 
 
+Here are some examples of realis and irrealis from different languages—
+
 In **English**, a modal verb can be used to distinguish irrealis from realis, for example:
 - `Mary is at home.` — a ‘categorical statement’, ie. realis
 - `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
+
+mm: semantic rep of 2 embeds the sem rep of 1 inside a modal entity, may(Mary is at home). may can be a node type or a relation. 
 
 In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis in a subordinate clause, eg.
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
 - `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
 \[MM: Does `creo` always govern the indicative? Does `dudo` always govern the subjunctive? How about when the embedded clause is negated?\]
+
+mm: this is purely grammatical and hence redundant, right? even under negation?
 
 In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis subordinate clauses respectively, eg.
 - `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’ — realis marks remote past tense
