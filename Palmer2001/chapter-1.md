@@ -34,7 +34,7 @@ In **English**, a modal verb can be used to distinguish irrealis from realis, fo
 - `Mary is at home.` — a ‘categorical statement’, ie. realis
 - `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
 
-mm: semantic rep of 2 embeds the sem rep of 1 inside a modal entity, may(Mary is at home). may can be a node type or a relation. 
+> semantic rep of 2 embeds the sem rep of 1 inside a modal entity, may(Mary is at home). may can be a node type or a relation. 
 
 In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis in a subordinate clause, eg.
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
@@ -42,7 +42,7 @@ In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis
 
 \[MM: Does `creo` always govern the indicative? Does `dudo` always govern the subjunctive? How about when the embedded clause is negated?\]
 
-mm: this is purely grammatical and hence redundant, right? even under negation?
+> mm: this is purely grammatical and hence redundant, right? even under negation?
 
 In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis subordinate clauses respectively, eg.
 - `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’ — realis marks remote past tense
