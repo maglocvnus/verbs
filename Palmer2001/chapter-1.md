@@ -51,7 +51,7 @@ graph TD
 ```mermaid
 graph TD
   possible --> that
-  that —> be
+  that --> be
   be --> Mary
   be --> at
   at --> home
