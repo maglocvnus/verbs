@@ -40,13 +40,24 @@ In **English**, a modal verb can be used to distinguish irrealis from realis, fo
 
 ```mermaid
 graph TD
-  may --> is
-  is --> Mary
-  is --> at
+  may --> be
+  be --> Mary
+  be --> at
   at --> home
-
 ```
 
+> Alternatively:
+
+```mermaid
+graph TD
+  possible --> that
+  that —> be
+  be --> Mary
+  be --> at
+  at --> home
+```
+
+> Mary is at home asserts a fact about the external world; Mary may be at home asserts a fact about the contents of the speaker’s mind. 
 
 #### Spanish subjunctive
 
