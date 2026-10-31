@@ -55,11 +55,11 @@ In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
 - `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
-> This is an example of subordinate clause modality. The verb `creo` subcategorises for an **indicative** complement clause, because its meaning lacks enough uncertainty. On the other hand, the verb `dudo` subcategorises for a subjunctive complement clause, because it meaning implies significant uncertainty.
+> This is an example of subordinate clause modality. The positive verb `creo` governs an **indicative** complement clause, because its meaning lacks significant uncertainty. On the other hand, the positive verb `dudo` governs a **subjunctive** complement clause, because it meaning implies significant uncertainty.
 >
-> This suggests that the indicative/subjunctive opposition is semantically vacuous/redundant. 
+> On the other hand, negated `creo` seems to mainly govern a subjunctive, and negated `dudo` an indicative.
 >
-> But what about when ‘creo’ and ‘dudo’ are negated? In these cases, the subjunctive and indicative are usually switched. 
+> break down dudo into believe + not? graphs?
 
 #### Amele realis and irrealis suffixes
 
