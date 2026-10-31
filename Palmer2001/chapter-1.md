@@ -46,7 +46,7 @@ graph TD
   at --> home
 ```
 
-> Alternatively:
+> Alternatively, we can take the paraphrase ‘It is possible that Mary is at home’ as the model and assume that the complementiser is semantically meaningful:
 
 ```mermaid
 graph TD
@@ -57,7 +57,7 @@ graph TD
   at --> home
 ```
 
-> Mary is at home asserts a fact about the external world; Mary may be at home asserts a fact about the contents of the speaker’s mind. 
+> Note that ‘Mary is at home’ asserts a fact about the external world; ‘Mary may be at home’, however, asserts a fact about the contents of the speaker’s mind, as does ‘Mary must be at home’.
 
 #### Spanish subjunctive
 
