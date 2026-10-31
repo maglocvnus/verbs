@@ -30,11 +30,25 @@ However, among languages with a grammaticalised opposition between realis and ir
 
 Here are some examples of realis and irrealis from different languages—
 
+#### English modal verbs
+
 In **English**, a modal verb can be used to distinguish irrealis from realis, for example:
 - `Mary is at home.` — a ‘categorical statement’, ie. realis
 - `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
 
-> semantic rep of 2 embeds the sem rep of 1 inside a modal entity, may(Mary is at home). may can be a node type or a relation. 
+> This is an example of main clause modality. It surely implies some kind of semantic representation where the representation of ‘Mary is at home’ is embedded within the scope of a modal operator ‘may/must’.
+
+```mermaid
+graph TD
+  may --> is
+  is --> Mary
+  is --> at
+  at --> home
+
+```
+
+
+#### Spanish subjunctive verbs
 
 In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis in a subordinate clause, eg.
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
