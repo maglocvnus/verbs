@@ -260,6 +260,17 @@ Note also the following **commissive** modality:
 
 ### 1.4.2. Negative and interrogative
 
+Imbabura Quechua:
+- kan-paj ushi-wan Agatu-pi-mi I met your daughter in Ageto.
+- kaya-shi kan-paj churi shamu-nga I suppose your son will come tomorrow.
+- Juzi-ka kitu-man chaya-shka-chá Perhaps José has arrived in Quito.
+- mayistru-chu ka-ngui Are you a teacher?
+- ñyuka-ka mana chay llama-ta shuwa-shka-ni-chu I didn’t steal that sheep.
+
+Caddo:
+- kúy-t’ayi-bahw I don’t see him.
+- sah?yi-bahw-nah Have you seen him?
+
 [Back up to top](#)
 
 ### 1.4.3. Wishes, fears, etc.
