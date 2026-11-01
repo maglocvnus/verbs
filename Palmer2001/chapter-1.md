@@ -7,6 +7,9 @@ Modality is concerned with the ‘status’ of ‘propositions’ that ‘descri
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
   - 1.1.1. [Realis and irrealis](#111-realis-and-irrealis)
+    - [English modal verbs](#english-modal-verbs)
+    - [Spanish subjunctive](#spanish-subjunctive)
+    - [Amele realis and irrealis suffixes](#amele-realis-and-irrealis-suffixes)
   - 1.1.2. [The notion of assertion](#112-the-notion-of-assertion)
 - 1.2. [Two basic distinctions](#12-two-basic-distinctions)
   - 1.2.1. [Mood and modal systems](#121-mood-and-modal-systems)
@@ -56,9 +59,11 @@ In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
 - `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
-> This is an example of subordinate clause modality. The non-negated verb `creo` governs an **indicative** complement clause, because its meaning does not express significant uncertainty. On the other hand, the non-negated verb `dudo` governs a **subjunctive** complement clause, because it meaning does express significant uncertainty.
+> This is an example of subordinate clause modality. The non-negated verb `creo` governs an **indicative** complement clause, because its meaning does not express significant uncertainty. On the other hand, the non-negated verb `dudo` governs a **subjunctive** complement clause, because its meaning does express significant uncertainty.
 >
 > However, negated `creo` seems to mainly govern a subjunctive, and negated `dudo` an indicative.
+
+The semantic representation for non-negated `creo` might be something like:
 
 ```mermaid
 graph TD
@@ -66,6 +71,8 @@ graph TD
   believe --> learn
   learn --> him
 ```
+
+And for non-negated `dudo`:
 
 ```mermaid
 graph TD
@@ -83,6 +90,8 @@ In Amele (Papuan), the verb suffixes `-eb` and `-en` mark irrealis and realis su
 - `ho bu-busal-en age qo-in` ‘They killed the pig as it ran out.’ — realis marks remote past tense
 - `ho bu-busal-eb age qo-qag-an` ‘They will kill the pig as it runs out.’ — irrealis marks future tense.
 
+> There might be some kind of grammatical ‘agreement’ going on here. The past tense main clause suffix `-in` selects a modifier headed by the realis suffix `-en`; and the future tense main clause suffix `-an` selects one headed by the irrealis suffix `-eb`.
+
 [Back up to top](#)
 
 ### 1.1.2. The notion of assertion
@@ -96,7 +105,7 @@ The following Spanish subordinate clauses show that there are three reasons why 
 - `Necesito que me devuelvas ese libro.` ‘I need that you return me that book.’ – the proposition is unrealised
 - `Me alegra que sepas la verdad.` ‘It pleases me that you know the truth.’ – the proposition is factual, but **presupposed** ie. known to be true by both speaker and hearer, and hence lacking information value.
 
-\[MM: Does `necesito` always govern the subjunctive? Does `alegra`?\]
+> Questions: Does `necesito` always govern the subjunctive? Even when it is negated? Does the same go for `alegra`?\]
 
 [Back up to top](#)
 
@@ -138,6 +147,14 @@ Some examples involving English ‘epistemic’ modal verbs:
 - `Kate will be at home now.` – a reasonable conclusion, ie. <mark>assumptive</mark> modality
 
 Some examples from the evidential system of Central Pomo:
+
+- `čhéemul` ‘it rained’
+- `čhéemul-?ma` ‘it rained — this is an established fact, general knowledge’
+- `čhéemul-ya` ‘it rained — I saw it’
+- `čhéemul-nme` ‘it rained — I heard it’
+- `čhéemul-?do` ‘it rained — someone told me’
+- `čhéemul-?ka` ‘it rained — I inferred this from the fact that everything is wet’
+
 
 [Back up to top](#)
 
