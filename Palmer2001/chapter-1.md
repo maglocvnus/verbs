@@ -36,18 +36,19 @@ In **English**, a modal verb can be used to distinguish irrealis from realis, fo
 - `Mary is at home.` — a ‘categorical statement’, ie. realis
 - `Mary may/must be at home.` — ‘judgments’ about propositions, ie, irrealis.
 
-> This is an example of main clause modality. It surely implies some kind of semantic representation where the representation of ‘Mary is at home’ is embedded within the scope of a modal operator ‘possible/necessary’, perhaps mediated through an intervening entity (cf. ‘It is possible that Mary is at home’):
+> This is an example of main clause modality. It surely implies some kind of semantic representation where the representation of ‘Mary is at home’ is embedded within the scope of a modal operator ‘possible/necessary/uncertain’ (cf. ‘It is possible that Mary is at home’):
 
 ```mermaid
 graph TD
-  possible --> that
-  that --> be
+  uncertain --> be
   be --> Mary
   be --> at
   at --> home
 ```
 
-> Note that ‘Mary is at home’ asserts a fact about the external world; ‘Mary may/must be at home’, however, asserts a fact about the contents of the speaker’s mind.
+> Note that ‘Mary is at home’ asserts a fact about the external world; ‘Mary may/must be at home’, however, asserts a fact about the contents of the speaker’s mind — what she knows and what she is uncertain about. 
+
+[Back up to top](#)
 
 #### Spanish subjunctive
 
@@ -55,11 +56,26 @@ In **Spanish**, subjunctive mood can be used to distinguish irrealis from realis
 - `Creo que aprende.` ‘I believe that he is learning.’ — indicative mood marks realis
 - `Dudo que aprenda.` ‘I doubt that he is learning.’ — subjunctive mood marks irrealis.
 
-> This is an example of subordinate clause modality. The positive verb `creo` governs an **indicative** complement clause, because its meaning lacks significant uncertainty. On the other hand, the positive verb `dudo` governs a **subjunctive** complement clause, because it meaning implies significant uncertainty.
+> This is an example of subordinate clause modality. The non-negated verb `creo` governs an **indicative** complement clause, because its meaning does not express significant uncertainty. On the other hand, the non-negated verb `dudo` governs a **subjunctive** complement clause, because it meaning does express significant uncertainty.
 >
-> On the other hand, negated `creo` seems to mainly govern a subjunctive, and negated `dudo` an indicative.
->
-> break down dudo into believe + not? graphs?
+> However, negated `creo` seems to mainly govern a subjunctive, and negated `dudo` an indicative.
+
+```mermaid
+graph TD
+  believe --> me
+  believe --> learn
+  learn --> him
+```
+
+```mermaid
+graph TD
+  believe --> me
+  believe --> uncertain
+  uncertain --> learn
+  learn --> him
+```
+
+[Back up to top](#)
 
 #### Amele realis and irrealis suffixes
 
