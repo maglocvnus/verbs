@@ -113,7 +113,7 @@ The following Spanish subordinate clauses show that there are three reasons why 
 
 ### 1.2.1. Mood and modal systems
 
-Languages can express modality in two different ways:
+Languages express modality in two main ways:
 - mood
 - modal systems
 
@@ -129,9 +129,9 @@ In a mood language, all/most clauses are generally either:
 
 Indicative / subjunctive is characteristic of European languages, exemplified by the Spanish examples above. 
 
-Realis / irrealis is characteristic of Native American and Papuan languages, exemplified by the Amele examples above. 
+Realis / irrealis is characteristic of Native American languages and in the languages of Papua New Guinea, exemplified by the Amele examples above. 
 
-Some distributional differences:
+Some distributional differences between indicative/subjunctive and realis/irrealis:
 - Subjunctive is usually restricted to subordinate clauses.
 - Irrealis often co-occurs with other grammatical markers.
 - Hence both are often notionally redundant, but in different ways.
@@ -139,22 +139,24 @@ Some distributional differences:
 
 #### Modal systems
 
-Modal systems are generally non-binary.
+Modal systems are generally non-binary — ‘different kinds of modality are distinguished within a single system of commuting terms’.
 
 Some examples involving English ‘epistemic’ modal verbs:
 - `Kate may be at home now.` – a possible conclusion, ie. <mark>speculative</mark> modality
 - `Kate must be at home now.` – the only possible conclusion. ie. <mark>deductive</mark> modality
 - `Kate will be at home now.` – a reasonable conclusion, ie. <mark>assumptive</mark> modality
 
-Some examples from the evidential system of Central Pomo:
+Some other examples from the evidential system of Central Pomo:
 
 - `čhéemul` ‘it rained’
 - `čhéemul-?ma` ‘it rained — this is an established fact, general knowledge’
-- `čhéemul-ya` ‘it rained — I saw it’
-- `čhéemul-nme` ‘it rained — I heard it’
-- `čhéemul-?do` ‘it rained — someone told me’
+- `čhéemul-ya` ‘it rained — I saw it (first hand)’
+- `čhéemul-nme` ‘it rained — I heard it (first hand)’
+- `čhéemul-?do` ‘it rained — someone told me’ 
 - `čhéemul-?ka` ‘it rained — I inferred this from the fact that everything is wet’
 
+English modal verbs can be understood as irrealis, in contrast to the realis declarative:
+- `Kate is at home now.`
 
 [Back up to top](#)
 
