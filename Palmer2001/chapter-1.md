@@ -318,9 +318,26 @@ Also in English, like in some other languages, a distinction is made between ‘
 
 ### 1.4.5. Complex systems
 
+Modal systems found in languages are generally far from being orderly and simple.
+
+Firstly, two apparently different systems may use the same set of markers. 
+
+For example, English uses the same modal verbs for both epistemic modality and deontic/dynamic modality:
 - `He can’t be in his office now.` — epistemic
 - `He can come in now.` — deontic, permission
 - `He can run a mile in four minutes.` — dynamic, ability
+
+Secondly, notionally identical modal categories may be treated as members of one system in one language, and of another system in another language. As discussed above, Deductive modality is part of a judgment system in English, but is part of an evidential system in Central Pomo.
+
+Thirdly, a single formal system often contains forms that belong to two different modal systems. For examples, German modal verbs function as both epistemic and deontic, but also as evidentials (cf. ‘sollen’ and ‘wollen’).
+
+Fourthly, there may not be a simple one-to-one relation between the terms of a formal system and some of the typologically relevant modal features.
+
+For example, in Lega (Bantu), there are three modal particles:
+- reported `bazongo`
+- speculative 
+- sensory `ampó`
+
 
 Lega (Bantu):
 - `nkumgwágá (bóno), ámbo bazongo bé kulyágá merende` ‘I hear that Whites eat frogs (though I find that unlikely).’
