@@ -4,7 +4,7 @@
 
 Modality is concerned with the ‘status’ of ‘propositions’ that ‘describe/portray’ ‘situations’ (events, states, actions, …), as ‘reported’ by ‘utterances’.
 
-> Modality sits **outside**, or **above**, event structure. 
+> Modal structure sits **outside**, or **above**, event structure. 
 
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
@@ -20,6 +20,8 @@ Contents:
   - 1.3.1. [Epistemic and evidential](#131-epistemic-and-evidential)
   - 1.3.2. [Deontic and dynamic](#132-deontic-and-dynamic)
 - 1.4. [Other types of modality](#14-other-types-of-modality)
+  - 1.4.1. Presupposed
+  - 1.4.2. [Negative and interrogative](#142-negative-and-interrogative)
 
 ## 1.1. Basic concepts
 
@@ -262,16 +264,22 @@ Note also the following **commissive** modality:
 
 ### 1.4.2. Negative and interrogative
 
-Imbabura Quechua:
-- kan-paj ushi-wan Agatu-pi-mi I met your daughter in Ageto.
-- kaya-shi kan-paj churi shamu-nga I suppose your son will come tomorrow.
-- Juzi-ka kitu-man chaya-shka-chá Perhaps José has arrived in Quito.
-- mayistru-chu ka-ngui Are you a teacher?
-- ñyuka-ka mana chay llama-ta shuwa-shka-ni-chu I didn’t steal that sheep.
+In some languages, negatives and interrogatives occur within modal systems or are marked with irrealis mood.
 
-Caddo:
-- kúy-t’ayi-bahw I don’t see him.
-- sah?yi-bahw-nah Have you seen him?
+For example the epistemic modal system in Imbabura Quechua includes a marker for negation and interrogation:
+- `kan-paj ushi-wan Agatu-pi-mi` ‘I met your daughter in Ageto.’ — `-mi` marks first-hand information
+- `kaya-shi kan-paj churi shamu-nga` ‘I suppose your son will come tomorrow.’ — `-shi` marks a conjecture
+- `Juzi-ka kitu-man chaya-shka-chá’ ‘Perhaps José has arrived in Quito.’ — `-chá` marks doubt
+- `mayistru-chu ka-ngui` ‘Are you a teacher?’ — `-chu` marks a yes/no question
+- `ñyuka-ka mana chay llama-ta shuwa-shka-ni-chu` ‘I didn’t steal that sheep.’ — `-chu` marks negation
+
+Similarly, negatives and interrogatives are both marked with irrealis `-yi` in the Caddo mood system:
+- `kúy-t’ayi-bahw` ‘I don’t see him.’
+- `sah?yi-bahw-nah` ‘Have you seen him?’
+
+In European languages:
+- Reported questions are expressed with the subjunctive in Latin.
+- In Spanish and Italian, a negated verb of saying usually governs the subjunctive.
 
 [Back up to top](#)
 
