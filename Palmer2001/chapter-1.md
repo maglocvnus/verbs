@@ -22,6 +22,8 @@ Contents:
 - 1.4. [Other types of modality](#14-other-types-of-modality)
   - 1.4.1. Presupposed
   - 1.4.2. [Negative and interrogative](#142-negative-and-interrogative)
+  - 1.4.3. [Wishes, fears, etc.](#143-wishes-fears-etc)
+  - 1.4.4. 
 
 ## 1.1. Basic concepts
 
@@ -284,6 +286,18 @@ In European languages:
 [Back up to top](#)
 
 ### 1.4.3. Wishes, fears, etc.
+
+Wishes and fears are partly deontic (expressing attitudes towards propositions that relate to unrealised events), partly epistemic (expressing attitudes towards propositions whose factual status is not known).
+
+In Latin and Ancient Greek, wishes and fears are expressed by the subjunctive not only in subordinate clauses, but also in main clauses too:
+- `modo valeres` ‘If only you were well!’ — `valeres` ‘you are well’ is a subjunctive verb
+- `mé: soús diaphthéire:i gámous` ‘(I’m afraid) she may ruin your marriage.’ — `diaphthéire:i` ‘she ruins’ is a subjunctive verb.
+
+In Fula (West African), wishes can be marked as subjunctive:
+- `njuutaa balde` ‘May you live long!’ — `njuutaa` is a subjunctive verb meaning ‘you are long’.
+
+Expressions of wanting, desire and preference relate to unrealised events, and may be marked as irrealis, especially in subordinate clauses, as in Spanish:
+- `quiero que estudias más` ‘I want that you study more.’
 
 [Back up to top](#)
 
