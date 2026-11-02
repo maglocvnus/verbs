@@ -4,6 +4,8 @@
 
 Modality is concerned with the ‘status’ of ‘propositions’ that ‘describe/portray’ ‘situations’ (events, states, actions, …), as ‘reported’ by ‘utterances’.
 
+> Modality sits **outside**, or **above**, event structure. 
+
 Contents:
 - 1.1. [Basic concepts](#11-basic-concepts)
   - 1.1.1. [Realis and irrealis](#111-realis-and-irrealis)
