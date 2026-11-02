@@ -303,9 +303,33 @@ Expressions of wanting, desire and preference relate to unrealised events, and m
 
 ### 1.4.4. Past tense as modal
 
+In some languages, past tense forms can be used to express unreality, tentativeness, potentiality. 
+
+In English, the past tense modal verb forms — `would`, `could`, `might` — can be used to express greater tentativeness:
+- `He’ll be there now.` / `He’d be there now.`
+- `He may be there now.` / `He might be there now.`
+- `He can’t be there now.` / `He couldn’t be there now.`
+
+Also in English, like in some other languages, a distinction is made between ‘real’ and ‘unreal’ conditionals, with the latter marked by past tense:
+- `If the children are here, John will be happy.` / `If the children were here, John would be happy.` — the second sentence has the clear implication that the children are not here
+- `If Mary comes, John will stay.` / `If Mary came, John would stay.` — the second sentence implies that it is unlikely that Mary will come.
+
 [Back up to top](#)
 
 ### 1.4.5. Complex systems
+
+- `He can’t be in his office now.` — epistemic
+- `He can come in now.` — deontic, permission
+- `He can run a mile in four minutes.` — dynamic, ability
+
+Lega (Bantu):
+- `nkumgwágá (bóno), ámbo bazongo bé kulyágá merende` ‘I hear that Whites eat frogs (though I find that unlikely).’
+- `ampó mbulá zésaloka` ‘It is already raining. (I can see it.)’
+- `ampó ékukúrá momponge` ‘She is assuredly pounding rice. (I can hear it.)
+- `ampó Kisangá éndile kw isoko; kikápu kyǎgé také gáno` ‘Kisanga surely went to the market; her basket is not here.’
+- `ampó Moké ákorwa` ‘Moke is tired. (He told me.)’
+
+Ngiyambaa:
 
 [Back up to top](#)
 
